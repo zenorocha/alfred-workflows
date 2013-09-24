@@ -36,6 +36,14 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
+### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
+
+Easily find processes by name and kill them.
+
+> Currently supports `kill`.
+
+![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
+
 ### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (0.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
 
 Open Liferay's Jira tickets in the browser.
