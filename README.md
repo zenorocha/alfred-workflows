@@ -14,6 +14,7 @@ TODO: Describe the installation process
 ![Grunt Workflow](http://f.cl.ly/items/3s380L410E0O3f0G1p3J/alfred-grunt.png)
 ![NPM Workflow](http://f.cl.ly/items/193e1Q0z2P1s2R1B0M30/alfred-npm.png)
 ![MDN Workflow](http://f.cl.ly/items/1G1m2S3A0F3V3f1a2D04/alfred-mdn.png)
+![CDN.js Workflow](http://f.cl.ly/items/0M1m0t2O3M2w2z123v3k/alfred-cdnjs.png)
 
 ## Contributing
 
