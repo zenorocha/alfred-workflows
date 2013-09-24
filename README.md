@@ -10,7 +10,7 @@ Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
 ## Workflows
 
-### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
+### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
 
@@ -70,14 +70,15 @@ Search for a question on [StackOverflow](http://stackoverflow.com).
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
 
-### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (0.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
+### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
 
 Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser.
 
-> Currently supports `aui`, `lps`.
+> Currently supports `aui`, `lps`, `mob`.
 
-![Jira LPS Workflow](http://f.cl.ly/items/3L1H3M2u1n1J2h2k2I3L/alfred-lps.png)
-![Jira AUI Workflow](http://f.cl.ly/items/0T0J2A1G3J0417280t3Y/alfred-aui.png)
+![LPS Workflow](http://f.cl.ly/items/1j3z3o1R3z282k2u1Q37/alfred-lps.png)
+![AUI Workflow](http://f.cl.ly/items/0C3i0q033M300n0p1o3Z/alfred-aui.png)
+![Mobile Workflow](http://f.cl.ly/items/2E411H401A2q0N2S0E26/alfred-mob.png)
 
 ## Contributing
 
