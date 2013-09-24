@@ -54,6 +54,18 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
+### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
+
+Open GitHub in the browser.
+
+P.S.: You have to login before you can use the workflow: `gh > login <user>`
+
+> Keywords: `gh`.
+
+![GH Repo Workflow](http://f.cl.ly/items/0G3n1D3W1p2S3S2W3B1C/alfred-gh-repo.png)
+![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
+![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
+
 ### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
 Easily find processes by name and kill them.
