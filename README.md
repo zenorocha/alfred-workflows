@@ -56,6 +56,14 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
+### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.13) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/font-awesome/font-awesome.alfredworkflow)
+
+Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons.
+
+> Keywords: `fonta`.
+
+![Font Awesome Workflow](http://f.cl.ly/items/3w1I0U3W0s0i0X3w123u/alfred-fonta.png)
+
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
 Open GitHub in the browser.
