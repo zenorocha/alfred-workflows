@@ -62,6 +62,14 @@ Easily find processes by name and kill them.
 
 ![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
 
+### [IP](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
+
+Shows your internal and external IP address.
+
+> Currently supports `ip`.
+
+![IP Address Workflow](http://f.cl.ly/items/1i3Q3T3I3t053J2b0R05/alfred-ip.png)
+
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
 Search for a question on [StackOverflow](http://stackoverflow.com).
