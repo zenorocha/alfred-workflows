@@ -6,7 +6,7 @@ A collection of [Alfred 2](http://www.alfredapp.com/) workflows.
 
 ## Install
 
-Download and open file using [Alfred 2]((http://www.alfredapp.com/).
+Download and open file using [Alfred 2]((http://www.alfredapp.com/). Keep in my mind that you'll need to [buy the Powerpack](https://buy.alfredapp.com/).
 
 ## Workflows
 
