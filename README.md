@@ -14,7 +14,7 @@ Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
 
-> Currently supports `subl`.
+> Keywords: `subl`.
 
 ![Sublime Workflow](http://f.cl.ly/items/3P0O2Z3p12253J3d3X2k/alfred-subl.png)
 
@@ -22,7 +22,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
 
 Quick package/plugin/component lookup of for your favourite package managers.
 
-> Currently supports `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+> Keywords: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
 ![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
@@ -32,7 +32,7 @@ Quick package/plugin/component lookup of for your favourite package managers.
 
 Convert HEX/RGB/HSL colors.
 
-> Currently supports `#`, `rgb`, `hsl`.
+> Keywords: `#`, `rgb`, `hsl`, `c`.
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
@@ -40,7 +40,7 @@ Convert HEX/RGB/HSL colors.
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language.
 
-> Currently supports `dash`, `html`, `css`, `js`, `jquery`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `cpp`, `backbone`, `underscore`, `sass`, `compass`, `wordpress`, `drupal`.
+> Keywords: `dash`, `html`, `css`, `js`, `jquery`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `cpp`, `backbone`, `underscore`, `sass`, `compass`, `wordpress`, `drupal`.
 
 ![Bootstrap Workflow](http://f.cl.ly/items/3N370w0u1d2P0D1W3X1l/alfred-dash-bootstrap.png)
 ![NodeJS Workflow](http://f.cl.ly/items/3V3t2R0g002M1K070i0V/alfred-dash-nodejs.png)
@@ -50,7 +50,7 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 
 Transform query strings through base64, html, url, and utf-8 encode/decode.
 
-> Currently supports `encode`, `decode`.
+> Keywords: `encode`, `decode`.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
@@ -58,15 +58,15 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 
 Easily find processes by name and kill them.
 
-> Currently supports `kill`.
+> Keywords: `kill`.
 
 ![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
 
-### [IP](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
+### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address.
 
-> Currently supports `ip`.
+> Keywords: `ip`.
 
 ![IP Address Workflow](http://f.cl.ly/items/1i3Q3T3I3t053J2b0R05/alfred-ip.png)
 
@@ -74,7 +74,7 @@ Shows your internal and external IP address.
 
 Search for a question on [StackOverflow](http://stackoverflow.com).
 
-> Currently supports `st`.
+> Keywords: `st`.
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
 
@@ -82,7 +82,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com).
 
 Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser.
 
-> Currently supports `aui`, `lps`, `mob`.
+> Keywords: `aui`, `lps`, `mob`.
 
 ![LPS Workflow](http://f.cl.ly/items/1j3z3o1R3z282k2u1Q37/alfred-lps.png)
 ![AUI Workflow](http://f.cl.ly/items/0C3i0q033M300n0p1o3Z/alfred-aui.png)
