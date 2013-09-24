@@ -70,7 +70,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com).
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
 
-### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
+### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/liferay-jira/liferay-jira.alfredworkflow)
 
 Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser.
 
