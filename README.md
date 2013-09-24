@@ -6,7 +6,7 @@
 
 ## Install
 
-TODO: Describe the installation process
+Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
 ## Usage
 
