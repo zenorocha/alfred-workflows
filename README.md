@@ -26,7 +26,15 @@ Convert HEX/RGB/HSL colors.
 
 > Currently supports `#`, `rgb`, `hsl`.
 
-[![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)](https://github.com/zenorocha/alfred-workflows/tree/master/colors)
+![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
+
+### [Encode/Decode](https://github.com/willfarrell/alfred-workflows) (1.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/encode-decode/encode-decode.alfredworkflow)
+
+Transform query strings through base64, html, url, and utf-8 encode/decode.
+
+> Currently supports `encode`, `decode`.
+
+![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
 ### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (0.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
 
@@ -34,8 +42,8 @@ Open Liferay's Jira tickets in the browser.
 
 > Currently supports `aui`, `lps`.
 
-[![Jira LPS Workflow](http://f.cl.ly/items/3L1H3M2u1n1J2h2k2I3L/alfred-lps.png)](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
-[![Jira AUI Workflow](http://f.cl.ly/items/0T0J2A1G3J0417280t3Y/alfred-aui.png)](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
+![Jira LPS Workflow](http://f.cl.ly/items/3L1H3M2u1n1J2h2k2I3L/alfred-lps.png)
+![Jira AUI Workflow](http://f.cl.ly/items/0T0J2A1G3J0417280t3Y/alfred-aui.png)
 
 ## Contributing
 
