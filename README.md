@@ -1,32 +1,38 @@
 # Alfred Workflows
 
-[![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)](http://www.alfredapp.com/)
+A collection of [Alfred 2](http://www.alfredapp.com/) workflows.
 
-> A collection of [Alfred 2](http://www.alfredapp.com/) workflows.
+[![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)](http://www.alfredapp.com/)
 
 ## Install
 
 Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
-## Usage
+## Workflows
 
-### Package Manager
+### [Package Managers](https://github.com/willfarrell/alfred-workflows) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
-[![Bower Workflow](http://f.cl.ly/items/2m1D0l0Y0q0L3O163o2c/alfred-bower.png)](https://github.com/zenorocha/alfred-workflows/tree/master/bower)
-[![Grunt Workflow](http://f.cl.ly/items/3s380L410E0O3f0G1p3J/alfred-grunt.png)](https://github.com/zenorocha/alfred-workflows/tree/master/grunt)
-[![NPM Workflow](http://f.cl.ly/items/193e1Q0z2P1s2R1B0M30/alfred-npm.png)](https://github.com/zenorocha/alfred-workflows/tree/master/npm)
-[![CDN.js Workflow](http://f.cl.ly/items/3G3c0w0g041Q0B0H2E38/alfred-cdnjs.png)](https://github.com/zenorocha/alfred-workflows/tree/master/cdnjs)
+Quick package/plugin/component lookup of for your favourite package managers.
 
-### Search Documentation
+> Currently supports `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
-[![MDN Workflow](http://f.cl.ly/items/1G1m2S3A0F3V3f1a2D04/alfred-mdn.png)](https://github.com/zenorocha/alfred-workflows/tree/master/mdn)
-[![WebPlatform Workflow](http://f.cl.ly/items/2b272y0H0L070O3Y0U1l/alfred-webplatform.png)](https://github.com/zenorocha/alfred-workflows/tree/master/webplatform)
+![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
+![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
+![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
-### Util
+### [Colors](https://github.com/TylerEich/Alfred-Extras) (1.41) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/colors/colors.alfredworkflow)
+
+Convert HEX/RGB/HSL colors.
+
+> Currently supports `#`, `rgb`, `hsl`.
 
 [![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)](https://github.com/zenorocha/alfred-workflows/tree/master/colors)
 
-### Liferay Development
+### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (0.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
+
+Open Liferay's Jira tickets in the browser.
+
+> Currently supports `aui`, `lps`.
 
 [![Jira LPS Workflow](http://f.cl.ly/items/3L1H3M2u1n1J2h2k2I3L/alfred-lps.png)](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
 [![Jira AUI Workflow](http://f.cl.ly/items/0T0J2A1G3J0417280t3Y/alfred-aui.png)](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
