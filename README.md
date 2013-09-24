@@ -26,10 +26,7 @@ TODO: Describe the installation process
 
 ## History
 
-* v0.1.1 September 24, 2013
-	* Added CDN.js custom search
-* v0.1.0 September 23, 2013
-    * Added Bower, Grunt, NPM and MDN custom searches
+Each workflow has its own history.
 
 ## License
 
