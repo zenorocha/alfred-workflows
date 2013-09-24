@@ -10,6 +10,14 @@ Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
 ## Workflows
 
+### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
+
+Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
+
+> Currently supports `subl`.
+
+![Sublime Workflow](http://f.cl.ly/items/3P0O2Z3p12253J3d3X2k/alfred-subl.png)
+
 ### [Package Managers](https://github.com/willfarrell/alfred-workflows/tree/master/Package%20Managers) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
 Quick package/plugin/component lookup of for your favourite package managers.
@@ -56,7 +64,7 @@ Easily find processes by name and kill them.
 
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
-Search for question on [StackOverflow](http://stackoverflow.com).
+Search for a question on [StackOverflow](http://stackoverflow.com).
 
 > Currently supports `st`.
 
@@ -64,7 +72,7 @@ Search for question on [StackOverflow](http://stackoverflow.com).
 
 ### [Liferay's Jira](https://github.com/zenorocha/alfred-workflows/tree/master/jira) (0.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/jira)
 
-Open Liferay's Jira tickets in the browser.
+Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser.
 
 > Currently supports `aui`, `lps`.
 
