@@ -10,7 +10,7 @@ Download and open file using [Alfred 2]((http://www.alfredapp.com/).
 
 ## Workflows
 
-### [Package Managers](https://github.com/willfarrell/alfred-workflows) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
+### [Package Managers](https://github.com/willfarrell/alfred-workflows/tree/master/Package%20Managers) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
 Quick package/plugin/component lookup of for your favourite package managers.
 
@@ -35,6 +35,16 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 > Currently supports `encode`, `decode`.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
+
+### [Dash](https://github.com/willfarrell/alfred-workflows/tree/master/Dash) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
+
+Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language.
+
+> Currently supports `dash`, `html`, `css`, `js`, `jquery`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `cpp`, `backbone`, `underscore`, `sass`, `compass`, `wordpress`, `drupal`.
+
+![Bootstrap Workflow](http://f.cl.ly/items/3N370w0u1d2P0D1W3X1l/alfred-dash-bootstrap.png)
+![NodeJS Workflow](http://f.cl.ly/items/3V3t2R0g002M1K070i0V/alfred-dash-nodejs.png)
+![Sass Workflow](http://f.cl.ly/items/2l0C21331a242W2t3Q1L/alfred-dash-sass.png)
 
 ### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
