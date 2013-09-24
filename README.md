@@ -2,7 +2,7 @@
 
 ![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)
 
-> TODO: Write a project description
+> A collection of [Alfred 2](http://www.alfredapp.com/) workflows.
 
 ## Install
 
@@ -26,6 +26,8 @@ TODO: Describe the installation process
 
 ## History
 
+* v0.1.1 September 24, 2013
+	* Added CDN.js custom search
 * v0.1.0 September 23, 2013
     * Added Bower, Grunt, NPM and MDN custom searches
 
