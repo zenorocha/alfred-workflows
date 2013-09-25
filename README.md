@@ -116,6 +116,14 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
 
+### [Transmit](http://www.alfredforum.com/topic/2185-transmit-favorites-workflow-works-with-mas-version/) (1.61) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/transmit/transmit.alfredworkflow)
+
+Get an instant list of your Transmit favorites.*
+
+> Keywords: `ftp`.
+
+![Transmit Workflow](http://f.cl.ly/items/301m3g1l0O00143U2C0e/transmit-workflow.png)
+
 ### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/liferay-jira/liferay-jira.alfredworkflow)
 
 Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser ~ *by [@zenorocha](https://github.com/zenorocha/).*
