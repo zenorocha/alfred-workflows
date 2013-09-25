@@ -38,7 +38,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-workflows/tree/master/Dash) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
