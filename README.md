@@ -20,7 +20,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 ![Sublime Workflow](http://f.cl.ly/items/3P0O2Z3p12253J3d3X2k/alfred-subl.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-workflows/tree/master/Package%20Managers) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
 Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -38,7 +38,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-workflows/tree/master/Dash) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
