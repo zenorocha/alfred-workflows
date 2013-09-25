@@ -122,7 +122,7 @@ Get an instant list of your Transmit favorites.*
 
 > Keywords: `ftp`.
 
-![Transmit Workflow](http://f.cl.ly/items/301m3g1l0O00143U2C0e/transmit-workflow.png)
+![Transmit Workflow](http://f.cl.ly/items/0G0A3l0D2S450N2K1M3p/transmit-workflow.png)
 
 ### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/liferay-jira/liferay-jira.alfredworkflow)
 
