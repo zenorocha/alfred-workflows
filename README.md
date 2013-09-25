@@ -76,6 +76,14 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
+### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ios-simulator/ios-simulator.alfredworkflow)
+
+Launch iOS Simulator without launching Xcode.
+
+> Keywords: `ios`.
+
+![iOS Simulator Workflow](http://f.cl.ly/items/0e011X0Q162p0R2p463z/alfred-ios.png)
+
 ### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address.
