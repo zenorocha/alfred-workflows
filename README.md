@@ -76,14 +76,6 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
-### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
-
-Easily find processes by name and kill them.
-
-> Keywords: `kill`.
-
-![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
-
 ### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address.
@@ -92,6 +84,14 @@ Shows your internal and external IP address.
 
 ![IP Address Workflow](http://f.cl.ly/items/1i3Q3T3I3t053J2b0R05/alfred-ip.png)
 
+### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
+
+Easily find processes by name and kill them.
+
+> Keywords: `kill`.
+
+![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
+
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
 Search for a question on [StackOverflow](http://stackoverflow.com).
@@ -99,6 +99,14 @@ Search for a question on [StackOverflow](http://stackoverflow.com).
 > Keywords: `st`.
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
+
+### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/time-zones/time-zones.alfredworkflow)
+
+Get an instant list of the current time in various cities around the world.
+
+> Keywords: `tz`.
+
+![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
 
 ### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/liferay-jira/liferay-jira.alfredworkflow)
 
