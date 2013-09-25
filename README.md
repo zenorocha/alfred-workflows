@@ -118,7 +118,7 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ### [Transmit](http://www.alfredforum.com/topic/2185-transmit-favorites-workflow-works-with-mas-version/) (1.61) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/transmit/transmit.alfredworkflow)
 
-Get an instant list of your Transmit favorites.*
+Get an instant list of your Transmit favorites ~ *by [Jefferson](http://www.alfredforum.com/topic/2185-transmit-favorites-workflow-works-with-mas-version/).*
 
 > Keywords: `ftp`.
 
