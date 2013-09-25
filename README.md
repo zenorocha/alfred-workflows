@@ -14,7 +14,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
 
-Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
+Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
 
 > Keywords: `subl`.
 
@@ -22,7 +22,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3).
 
 ### [Package Managers](https://github.com/willfarrell/alfred-workflows/tree/master/Package%20Managers) (v0.11) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
-Quick package/plugin/component lookup of for your favourite package managers.
+Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 > Keywords: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
@@ -32,7 +32,7 @@ Quick package/plugin/component lookup of for your favourite package managers.
 
 ### [Colors](https://github.com/TylerEich/Alfred-Extras) (1.41) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/colors/colors.alfredworkflow)
 
-Convert HEX/RGB/HSL colors.
+Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 > Keywords: `#`, `rgb`, `hsl`, `c`.
 
@@ -40,7 +40,7 @@ Convert HEX/RGB/HSL colors.
 
 ### [Dash](https://github.com/willfarrell/alfred-workflows/tree/master/Dash) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
 
-Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language.
+Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 > Keywords: `dash`, `html`, `css`, `js`, `jquery`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `cpp`, `backbone`, `underscore`, `sass`, `compass`, `wordpress`, `drupal`.
 
@@ -50,7 +50,7 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 
 ### [Encode/Decode](https://github.com/willfarrell/alfred-workflows) (1.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/encode-decode/encode-decode.alfredworkflow)
 
-Transform query strings through base64, html, url, and utf-8 encode/decode.
+Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 > Keywords: `encode`, `decode`.
 
@@ -58,7 +58,7 @@ Transform query strings through base64, html, url, and utf-8 encode/decode.
 
 ### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.13) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/font-awesome/font-awesome.alfredworkflow)
 
-Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons.
+Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons ~ *by [@ruedap](https://github.com/ruedap/).*
 
 > Keywords: `fonta`.
 
@@ -68,7 +68,7 @@ Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons.
 
 Open GitHub in the browser.
 
-P.S.: You have to login before you can use the workflow: `gh > login <user>`
+P.S.: You have to login before you can use the workflow: `gh > login <user>` ~ *by [@gharlan](https://github.com/gharlan/).*
 
 > Keywords: `gh`.
 
@@ -78,7 +78,7 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`
 
 ### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ios-simulator/ios-simulator.alfredworkflow)
 
-Launch iOS Simulator without launching Xcode.
+Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
 
 > Keywords: `ios`.
 
@@ -86,7 +86,7 @@ Launch iOS Simulator without launching Xcode.
 
 ### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
-Shows your internal and external IP address.
+Shows your internal and external IP address. *By [@dferg](http://dferg.us/ip-address-workflow/).*
 
 > Keywords: `ip`.
 
@@ -94,7 +94,7 @@ Shows your internal and external IP address.
 
 ### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
-Easily find processes by name and kill them.
+Easily find processes by name and kill them ~ *by [@nathangreenstein](https://github.com/nathangreenstein/).*
 
 > Keywords: `kill`.
 
@@ -102,7 +102,7 @@ Easily find processes by name and kill them.
 
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
-Search for a question on [StackOverflow](http://stackoverflow.com).
+Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
 
 > Keywords: `st`.
 
@@ -110,7 +110,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com).
 
 ### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/time-zones/time-zones.alfredworkflow)
 
-Get an instant list of the current time in various cities around the world.
+Get an instant list of the current time in various cities around the world ~ *by [@CarlosNZ](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/).*
 
 > Keywords: `tz`.
 
@@ -118,7 +118,7 @@ Get an instant list of the current time in various cities around the world.
 
 ### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/liferay-jira/liferay-jira.alfredworkflow)
 
-Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser.
+Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser ~ *by [@zenorocha](https://github.com/zenorocha/).*
 
 > Keywords: `aui`, `lps`, `mob`.
 
