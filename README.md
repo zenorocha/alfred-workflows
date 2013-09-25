@@ -66,9 +66,9 @@ Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons 
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
-Open GitHub in the browser.
+Open GitHub in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
 
-P.S.: You have to login before you can use the workflow: `gh > login <user>` ~ *by [@gharlan](https://github.com/gharlan/).*
+P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 > Keywords: `gh`.
 
@@ -86,7 +86,7 @@ Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfred
 
 ### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
-Shows your internal and external IP address. *By [@dferg](http://dferg.us/ip-address-workflow/).*
+Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
 
 > Keywords: `ip`.
 
