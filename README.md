@@ -126,6 +126,10 @@ Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser ~ *by 
 ![AUI Workflow](http://f.cl.ly/items/0C3i0q033M300n0p1o3Z/alfred-aui.png)
 ![Mobile Workflow](http://f.cl.ly/items/2E411H401A2q0N2S0E26/alfred-mob.png)
 
+## Extras
+
+Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
+
 ## Contributing
 
 1. Fork it!
