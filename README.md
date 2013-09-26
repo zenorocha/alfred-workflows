@@ -12,6 +12,8 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ## Workflows
 
+:arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
+
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0) ~ [Download](http://zno.io/RcAe)
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
@@ -148,6 +150,10 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 
 ## History
 
+* [v1.2.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.2.0) September 26, 2013
+	* Updated [Encode/Decode v1.2](https://github.com/zenorocha/alfred-workflows/tree/master/encode-decode)
+		* Fixed the encoding issues with characters like `©` and `®` [#25](https://github.com/willfarrell/alfred-workflows/pull/25)
+	* Added [Can I Use v1.0](https://github.com/willfarrell/alfred-caniuse-workflow) from [@willfarrell](https://github.com/willfarrell/)
 * [v1.1.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.1.0) September 25, 2013
 	* Added [TimeZones v1.61](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) from [@CarlosNZ](https://twitter.com/CarlosNZ/)
 	* Updated [IP Address v1.1](https://github.com/zenorocha/alfred-workflows/tree/master/ip-address)
@@ -155,7 +161,6 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 	* Added [iOS Simulator v1.0](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) from [@maloninc](https://github.com/maloninc/)
 	* Updated [Font Awesome v0.2](https://github.com/zenorocha/alfred-workflows/tree/master/font-awesome)
 		* Fixed contrast on dark themes [#24](https://github.com/ruedap/alfred2-font-awesome-workflow/issues/24)
-	* Added [Can I Use v1.0](https://github.com/willfarrell/alfred-caniuse-workflow) from [@willfarrell](https://github.com/willfarrell/)
 * [v1.0.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.0.0) September 24, 2013
 	* Added [Open With Sublime v1.0](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) from [@franzheidl](https://github.com/franzheidl/)
 	* Added [StackOverflow v1.0](https://github.com/xhinking/Alfred) from [@xhinking](https://github.com/xhinking/)
