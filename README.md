@@ -56,7 +56,7 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 ![NodeJS Workflow](http://f.cl.ly/items/3V3t2R0g002M1K070i0V/alfred-dash-nodejs.png)
 ![Sass Workflow](http://f.cl.ly/items/2l0C21331a242W2t3Q1L/alfred-dash-sass.png)
 
-### [Encode/Decode](https://github.com/willfarrell/alfred-workflows) (1.1) ~ [Download](http://zno.io/RcCX)
+### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.1) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -168,7 +168,7 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 	* Added [IP Address v1.0](http://dferg.us/ip-address-workflow/) from [David Ferguson](http://dferg.us/)
 	* Added [GitHub v1.0](https://github.com/gharlan/alfred-github-workflow) from [@gharlan](https://github.com/gharlan/)
 	* Added [Font Awesome v0.13](https://github.com/ruedap/alfred2-font-awesome-workflow) from [@ruedap](https://github.com/ruedap/)
-	* Added [Encode/Decode v1.1](https://github.com/willfarrell/alfred-workflows) from [@willfarrell](https://github.com/willfarrell/)
+	* Added [Encode/Decode v1.1](https://github.com/willfarrell/alfred-encode-decode-workflow) from [@willfarrell](https://github.com/willfarrell/)
 	* Added [Dash v1.4](https://github.com/willfarrell/alfred-dash-workflow) from [@willfarrell](https://github.com/willfarrell/)
 * [v0.1.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v0.1.0) September 23, 2013
 	* Added [Liferay Jira v0.1](https://github.com/zenorocha/alfred-workflows) from [@zenorocha](https://github.com/zenorocha/)
