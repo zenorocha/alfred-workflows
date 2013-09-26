@@ -22,7 +22,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 ![Sublime Workflow](http://f.cl.ly/items/3P0O2Z3p12253J3d3X2k/alfred-subl.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.11) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.15) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -48,7 +48,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.4) ~ [Download](http://zno.io/Rc3p)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.7) ~ [Download](http://zno.io/Rc3p)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -58,7 +58,7 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 ![NodeJS Workflow](http://f.cl.ly/items/3V3t2R0g002M1K070i0V/alfred-dash-nodejs.png)
 ![Sass Workflow](http://f.cl.ly/items/2l0C21331a242W2t3Q1L/alfred-dash-sass.png)
 
-### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.1) ~ [Download](http://zno.io/RcCX)
+### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.2) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -151,6 +151,9 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 ## History
 
 * [v1.2.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.2.0) September 26, 2013
+	* Updated [Dash v1.7](https://github.com/zenorocha/alfred-workflows/tree/master/package-managers)
+		* Added `django`, `python2`, `python3`, `jqueryui`, `elisp` and `android` keywords [#2](https://github.com/willfarrell/alfred-dash-workflow/pull/2) [#5](https://github.com/willfarrell/alfred-dash-workflow/pull/5)
+	* Updated [Package Managers v1.15](https://github.com/zenorocha/alfred-workflows/tree/master/package-managers)
 	* Updated [Encode/Decode v1.2](https://github.com/zenorocha/alfred-workflows/tree/master/encode-decode)
 		* Fixed the encoding issues with characters like `©` and `®` [#25](https://github.com/willfarrell/alfred-workflows/pull/25)
 	* Added [Can I Use v1.0](https://github.com/willfarrell/alfred-caniuse-workflow) from [@willfarrell](https://github.com/willfarrell/)
