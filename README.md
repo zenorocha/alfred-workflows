@@ -30,6 +30,14 @@ Quick package/plugin/component lookup of for your favourite package managers ~ *
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
 ![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
+
+Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
+
+> Keywords: `caniuse`.
+
+![Can I Use Workflow](http://f.cl.ly/items/0i1m0F2h362j361i0e1z/alfred-caniuse.png)
+
 ### [Colors](https://github.com/TylerEich/Alfred-Extras) (1.41) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/colors/colors.alfredworkflow)
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
