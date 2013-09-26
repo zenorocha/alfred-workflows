@@ -148,7 +148,31 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 
 ## History
 
-Each workflow has its own history.
+* v1.1.0 September 25, 2013
+	* Added [TimeZones v1.61](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) from [@CarlosNZ](https://twitter.com/CarlosNZ/)
+	* Updated [IP Address v1.1](https://github.com/zenorocha/alfred-workflows/tree/master/ip-address)
+		* Fix IP Address issue for some network setups
+	* Added [iOS Simulator v1.0](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) from [@maloninc](https://github.com/maloninc/)
+	* Updated [Font Awesome v0.2](https://github.com/zenorocha/alfred-workflows/tree/master/font-awesome)
+		* Fixed contrast on dark themes [#24](https://github.com/ruedap/alfred2-font-awesome-workflow/issues/24)
+	* Added [Can I Use v1.0](https://github.com/willfarrell/alfred-caniuse-workflow) from [@willfarrell](https://github.com/willfarrell/)
+* v1.0.0 September 24, 2013
+	* Added [Open With Sublime v1.0](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) from [@franzheidl](https://github.com/franzheidl/)
+	* Added [StackOverflow v1.0](https://github.com/xhinking/Alfred) from [@xhinking](https://github.com/xhinking/)
+	* Added [Package Managers v1.11](https://github.com/willfarrell/alfred-pkgman-workflow) from [@willfarrell](https://github.com/willfarrell/)
+	* Updated [Liferay Jira v1.0](https://github.com/zenorocha/alfred-workflows) from [@zenorocha](https://github.com/zenorocha/)
+		* Moved Jira tasks into one workflow
+		* Added `mob` shortcut for Mobile tickets
+	* Added [Kill Process v1.2](https://github.com/nathangreenstein/alfred-process-killer) from [@nathangreenstein](https://github.com/nathangreenstein/)
+	* Added [IP Address v1.0](http://dferg.us/ip-address-workflow/) from [David Ferguson](http://dferg.us/)
+	* Added [GitHub v1.0](https://github.com/gharlan/alfred-github-workflow) from [@gharlan](https://github.com/gharlan/)
+	* Added [Font Awesome v0.13](https://github.com/ruedap/alfred2-font-awesome-workflow) from [@ruedap](https://github.com/ruedap/)
+	* Added [Encode/Decode v1.1](https://github.com/willfarrell/alfred-workflows) from [@willfarrell](https://github.com/willfarrell/)
+	* Added [Dash v1.4](https://github.com/willfarrell/alfred-dash-workflow) from [@willfarrell](https://github.com/willfarrell/)
+	* v1.41 September 23, 2013
+	* Added [Colors v1.41](https://github.com/TylerEich/Alfred-Extras) from [@TylerEich](https://github.com/TylerEich/)
+* v0.1.0 September 23, 2013
+	* Added [Liferay Jira v0.1](https://github.com/zenorocha/alfred-workflows) from [@zenorocha](https://github.com/zenorocha/)
 
 ## License
 
