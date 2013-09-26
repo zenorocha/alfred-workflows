@@ -126,6 +126,14 @@ Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser ~ *by 
 ![AUI Workflow](http://f.cl.ly/items/0C3i0q033M300n0p1o3Z/alfred-aui.png)
 ![Mobile Workflow](http://f.cl.ly/items/2E411H401A2q0N2S0E26/alfred-mob.png)
 
+### [Toggle Desktop Icons](http://www.alfredforum.com/topic/1923-toggle-desktop-icons-visibility/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/toggle-icons/toggle-icons.alfredworkflow)
+
+Show / Hide Desktop Icons ~ *by [Edwin Allan](http://www.alfredforum.com/topic/1923-toggle-desktop-icons-visibility/).*
+
+> Keywords: `toggleicons`
+
+![Toggle Icons Workflow](http://d.pr/i/JPyh+)
+
 ## Contributing
 
 1. Fork it!
