@@ -1,8 +1,8 @@
 # Alfred Workflows
 
-A collection of [Alfred 2](http://www.alfredapp.com/) workflows.
+A collection of [Alfred 2](http://www.alfredapp.com/) workflows that will rock your world.
 
-[![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)](http://www.alfredapp.com/)
+![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)
 
 ## Install
 
