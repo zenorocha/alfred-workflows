@@ -58,6 +58,14 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 ![NodeJS Workflow](http://f.cl.ly/items/3V3t2R0g002M1K070i0V/alfred-dash-nodejs.png)
 ![Sass Workflow](http://f.cl.ly/items/2l0C21331a242W2t3Q1L/alfred-dash-sass.png)
 
+### [Domainr](https://github.com/dingyi/Alfred-Workflows) (1.1) ~ [Download](http://zno.io/RctP)
+
+Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
+
+> Keywords: `domainr`.
+
+![Domainr Workflow](http://f.cl.ly/items/0h2Y1D1A3K2g003N0932/alfred-domainr.png)
+
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.2) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
