@@ -158,38 +158,7 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 
 ## History
 
-* [v1.2.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.2.0) September 26, 2013
-	* Updated [Dash v1.7](https://github.com/zenorocha/alfred-workflows/tree/master/package-managers)
-		* Added `django`, `python2`, `python3`, `jqueryui`, `elisp` and `android` keywords [#2](https://github.com/willfarrell/alfred-dash-workflow/pull/2) [#5](https://github.com/willfarrell/alfred-dash-workflow/pull/5)
-	* Updated [Package Managers v1.15](https://github.com/zenorocha/alfred-workflows/tree/master/package-managers)
-	* Updated [Encode/Decode v1.2](https://github.com/zenorocha/alfred-workflows/tree/master/encode-decode)
-		* Fixed the encoding issues with characters like `©` and `®` [#25](https://github.com/willfarrell/alfred-workflows/pull/25)
-	* Added [Can I Use v1.0](https://github.com/willfarrell/alfred-caniuse-workflow) from [@willfarrell](https://github.com/willfarrell/)
-* [v1.1.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.1.0) September 25, 2013
-	* Added [TimeZones v1.61](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) from [@CarlosNZ](https://twitter.com/CarlosNZ/)
-	* Updated [IP Address v1.1](https://github.com/zenorocha/alfred-workflows/tree/master/ip-address)
-		* Fixed IP Address issue for some network setups [#11](https://github.com/zenorocha/alfred-workflows/pull/11)
-	* Added [iOS Simulator v1.0](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) from [@maloninc](https://github.com/maloninc/)
-	* Updated [Font Awesome v0.2](https://github.com/zenorocha/alfred-workflows/tree/master/font-awesome)
-		* Fixed contrast on dark themes [#24](https://github.com/ruedap/alfred2-font-awesome-workflow/issues/24)
-* [v1.0.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v1.0.0) September 24, 2013
-	* Added [Open With Sublime v1.0](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) from [@franzheidl](https://github.com/franzheidl/)
-	* Added [StackOverflow v1.0](https://github.com/xhinking/Alfred) from [@xhinking](https://github.com/xhinking/)
-	* Added [Package Managers v1.11](https://github.com/willfarrell/alfred-pkgman-workflow) from [@willfarrell](https://github.com/willfarrell/)
-	* Removed Bower, CDN.js, Colors, Grunt, MDN, NPM custom searches
-	* Updated [Liferay Jira v1.0](https://github.com/zenorocha/alfred-workflows) from [@zenorocha](https://github.com/zenorocha/)
-		* Moved Jira tasks into one workflow
-		* Added `mob` shortcut for Mobile tickets
-	* Added [Kill Process v1.2](https://github.com/nathangreenstein/alfred-process-killer) from [@nathangreenstein](https://github.com/nathangreenstein/)
-	* Added [IP Address v1.0](http://dferg.us/ip-address-workflow/) from [David Ferguson](http://dferg.us/)
-	* Added [GitHub v1.0](https://github.com/gharlan/alfred-github-workflow) from [@gharlan](https://github.com/gharlan/)
-	* Added [Font Awesome v0.13](https://github.com/ruedap/alfred2-font-awesome-workflow) from [@ruedap](https://github.com/ruedap/)
-	* Added [Encode/Decode v1.1](https://github.com/willfarrell/alfred-encode-decode-workflow) from [@willfarrell](https://github.com/willfarrell/)
-	* Added [Dash v1.4](https://github.com/willfarrell/alfred-dash-workflow) from [@willfarrell](https://github.com/willfarrell/)
-* [v0.1.0](https://github.com/zenorocha/alfred-workflows/releases/tag/v0.1.0) September 23, 2013
-	* Added [Liferay Jira v0.1](https://github.com/zenorocha/alfred-workflows) from [@zenorocha](https://github.com/zenorocha/)
-	* Added [Colors v1.41](https://github.com/TylerEich/Alfred-Extras) from [@TylerEich](https://github.com/TylerEich/)
-	* Added Bower, CDN.js, Colors, Grunt, MDN, NPM custom searches
+See [Release](https://github.com/zenorocha/alfred-workflows/releases) list.
 
 ## License
 
