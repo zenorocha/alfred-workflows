@@ -102,7 +102,7 @@ Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfred
 
 ![iOS Simulator Workflow](http://f.cl.ly/items/0e011X0Q162p0R2p463z/alfred-ios.png)
 
-### [IP Address](http://dferg.us/ip-address-workflow/) (1.0) ~ [Download](http://zno.io/RcAi)
+### [IP Address](http://dferg.us/ip-address-workflow/) (1.2) ~ [Download](http://zno.io/RcAi)
 
 Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
 
