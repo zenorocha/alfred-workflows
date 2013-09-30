@@ -136,16 +136,6 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
 
-### [Liferay Jira](https://github.com/zenorocha/alfred-workflows/tree/master/liferay-jira) (1.0) ~ [Download](http://zno.io/RcDS)
-
-Open [Liferay's Jira](https://issues.liferay.com/) tickets in the browser ~ *by [@zenorocha](https://github.com/zenorocha/).*
-
-> Keywords: `aui`, `lps`, `mob`.
-
-![LPS Workflow](http://f.cl.ly/items/1j3z3o1R3z282k2u1Q37/alfred-lps.png)
-![AUI Workflow](http://f.cl.ly/items/0C3i0q033M300n0p1o3Z/alfred-aui.png)
-![Mobile Workflow](http://f.cl.ly/items/2E411H401A2q0N2S0E26/alfred-mob.png)
-
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
