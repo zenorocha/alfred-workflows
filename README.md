@@ -76,7 +76,7 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
-### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.2) ~ [Download](http://zno.io/RcJ3)
+### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.3) ~ [Download](http://zno.io/RcJ3)
 
 Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons ~ *by [@ruedap](https://github.com/ruedap/).*
 
