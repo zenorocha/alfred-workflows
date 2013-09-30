@@ -52,6 +52,8 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
+P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
+
 > Keywords: `dash`, `html`, `css`, `js`, `jquery`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `cpp`, `backbone`, `underscore`, `sass`, `compass`, `wordpress`, `drupal`.
 
 ![Bootstrap Workflow](http://f.cl.ly/items/3N370w0u1d2P0D1W3X1l/alfred-dash-bootstrap.png)
