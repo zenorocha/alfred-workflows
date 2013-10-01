@@ -136,6 +136,14 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
 
+#### [PyPi](https://github.com/krak3n/pypi-alfred-workflow) ~ v1.0.0
+
+Query the Python Package Index API. You can either open searched packages in a browser or copy the pip install command to your clipboard. ~ *by [@krak3n](https://github.com/krak3n/).*
+
+> Keywords: `pypi`, `pip`
+
+![PyPi Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pypi_flask.png)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
