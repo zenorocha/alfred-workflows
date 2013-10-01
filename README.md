@@ -144,6 +144,8 @@ Query the Python Package Index API. You can either open searched packages in a b
 
 ![PyPi Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pypi_flask.png)
 
+![PyPi Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pip_flask.png)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
