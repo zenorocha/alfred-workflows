@@ -14,13 +14,13 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
 
-### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.0) ~ [Download](http://zno.io/RcAe)
+### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1) ~ [Download](http://zno.io/RcAe)
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
 
-> Keywords: `subl`.
+> Keywords: `subl`, `subl*`.
 
-![Sublime Workflow](http://f.cl.ly/items/3P0O2Z3p12253J3d3X2k/alfred-subl.png)
+![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
 
 ### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.15) ~ [Download](http://zno.io/RcdI)
 
