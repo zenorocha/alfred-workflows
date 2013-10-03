@@ -22,6 +22,15 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 ![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
 
+### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6) ~ [Download](http://zno.io/RkU2)
+
+Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
+
+> Keywords: `ft`, `tf`, `fi`, `if`.
+
+![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
+![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
+
 ### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.15) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
