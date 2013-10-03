@@ -31,7 +31,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 ![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
 ![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v0.15) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.15) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -41,13 +41,13 @@ Quick package/plugin/component lookup of for your favourite package managers ~ *
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
 ![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
-### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.0) ~ [Download](http://zno.io/Rcex)
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.1) ~ [Download](http://zno.io/Rcex)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 > Keywords: `caniuse`.
 
-![Can I Use Workflow](http://f.cl.ly/items/0i1m0F2h362j361i0e1z/alfred-caniuse.png)
+![Can I Use Workflow](http://f.cl.ly/items/1n2k2M0D170Y0D3G2J18/alfred-caniuse.png)
 
 ### [Colors](https://github.com/TylerEich/Alfred-Extras) (1.41) ~ [Download](http://zno.io/RcFz)
 
