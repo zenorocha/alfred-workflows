@@ -93,6 +93,16 @@ Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) iconse
 
 ![Font Awesome Workflow](http://f.cl.ly/items/3w1I0U3W0s0i0X3w123u/alfred-fonta.png)
 
+### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.0) ~ [Download](http://zno.io/RnTx)
+
+Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
+
+> Triggers: `fz`.
+
+![FileZilla Workflow](http://f.cl.ly/items/1x040v0X2E2B3l1G2G0j/alfred-fz.png)
+
+Looking for other FTP clients? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
+
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](http://zno.io/RcPe)
 
 Open GitHub in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
@@ -107,7 +117,9 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 ### [SourceTree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
 
-List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/)  ~ *by [@zhaocai](https://github.com/zhaocai/).*
+List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
+
+Looking for other Git clients? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
 > Triggers: `st`, `stbookmark`.
 
