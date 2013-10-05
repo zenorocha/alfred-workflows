@@ -101,7 +101,7 @@ Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by 
 
 ![FileZilla Workflow](http://f.cl.ly/items/1x040v0X2E2B3l1G2G0j/alfred-fz.png)
 
-Looking for other FTP clients? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
+Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](http://zno.io/RcPe)
 
@@ -119,11 +119,11 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
 
-Looking for other Git clients? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
-
 > Triggers: `st`, `stbookmark`.
 
 ![SourceTree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
+
+Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
 ### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](http://zno.io/RcI1)
 
