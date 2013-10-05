@@ -33,7 +33,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 
 ### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.15) ~ [Download](http://zno.io/RcdI)
 
-Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
+Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 > Triggers: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
@@ -97,6 +97,8 @@ Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) iconse
 
 Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
 
+P.S.: FileZilla is a free external application, make sure to [download](https://filezilla-project.org/) it before start using this workflow.
+
 > Triggers: `fz`.
 
 ![FileZilla Workflow](http://f.cl.ly/items/1x040v0X2E2B3l1G2G0j/alfred-fz.png)
@@ -105,7 +107,7 @@ Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/al
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (1.0) ~ [Download](http://zno.io/RcPe)
 
-Open GitHub in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
+Easily open [GitHub](http://github.com) repositories and more in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
 
 P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
@@ -115,13 +117,15 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
-### [SourceTree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
+### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
 
 List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
 
+P.S.: Source Tree is a free external application, make sure to [download](http://www.sourcetreeapp.com/) it before start using this workflow.
+
 > Triggers: `st`, `stbookmark`.
 
-![SourceTree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
+![Source Tree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
