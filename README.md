@@ -18,7 +18,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
 
-> Keywords: `subl`, `subl*`.
+> Triggers: `subl`, `subl*`.
 
 ![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
 
@@ -26,7 +26,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
 
-> Keywords: `ft`, `tf`, `fi`, `if`.
+> Triggers: `ft`, `tf`, `fi`, `if`.
 
 ![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
 ![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
@@ -35,7 +35,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 
 Quick package/plugin/component lookup of for your favourite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
-> Keywords: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+> Triggers: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
 ![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
@@ -45,7 +45,7 @@ Quick package/plugin/component lookup of for your favourite package managers ~ *
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
-> Keywords: `caniuse`.
+> Triggers: `caniuse`.
 
 ![Can I Use Workflow](http://f.cl.ly/items/1n2k2M0D170Y0D3G2J18/alfred-caniuse.png)
 
@@ -53,7 +53,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
-> Keywords: `#`, `rgb`, `hsl`, `c`.
+> Triggers: `#`, `rgb`, `hsl`, `c`.
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
@@ -63,7 +63,7 @@ Search through [Dash](http://kapeli.com/dash) documentations by filtering the ke
 
 P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
 
-> Keywords: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`.
+> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`.
 
 ![JavaScript Workflow](http://f.cl.ly/items/3Q3J1v1N1m420Z3y451u/alfred-js.png)
 ![Rails Workflow](http://f.cl.ly/items/3j3R1Y0o2n3z260Z453O/alfred-rails.png)
@@ -73,7 +73,7 @@ P.S.: Dash is a free external application, make sure to [download](http://kapeli
 
 Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
 
-> Keywords: `domainr`.
+> Triggers: `domainr`.
 
 ![Domainr Workflow](http://f.cl.ly/items/0h2Y1D1A3K2g003N0932/alfred-domainr.png)
 
@@ -81,15 +81,15 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
-> Keywords: `encode`, `decode`.
+> Triggers: `encode`, `decode`.
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
 ### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.3) ~ [Download](http://zno.io/RcJ3)
 
-Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons ~ *by [@ruedap](https://github.com/ruedap/).*
+Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) iconset ~ *by [@ruedap](https://github.com/ruedap/).*
 
-> Keywords: `fonta`.
+> Triggers: `fonta`.
 
 ![Font Awesome Workflow](http://f.cl.ly/items/3w1I0U3W0s0i0X3w123u/alfred-fonta.png)
 
@@ -99,17 +99,25 @@ Open GitHub in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
 
 P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
-> Keywords: `gh`.
+> Triggers: `gh`.
 
 ![GH Repo Workflow](http://f.cl.ly/items/0G3n1D3W1p2S3S2W3B1C/alfred-gh-repo.png)
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
+### [SourceTree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
+
+List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/)  ~ *by [@zhaocai](https://github.com/zhaocai/).*
+
+> Triggers: `st`, `stbookmark`.
+
+![SourceTree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
+
 ### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](http://zno.io/RcI1)
 
 Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
 
-> Keywords: `ios`.
+> Triggers: `ios`.
 
 ![iOS Simulator Workflow](http://f.cl.ly/items/0e011X0Q162p0R2p463z/alfred-ios.png)
 
@@ -117,7 +125,7 @@ Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfred
 
 Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
 
-> Keywords: `ip`.
+> Triggers: `ip`.
 
 ![IP Address Workflow](http://f.cl.ly/items/1i3Q3T3I3t053J2b0R05/alfred-ip.png)
 
@@ -125,7 +133,7 @@ Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-ad
 
 Easily find processes by name and kill them ~ *by [@nathangreenstein](https://github.com/nathangreenstein/).*
 
-> Keywords: `kill`.
+> Triggers: `kill`.
 
 ![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
 
@@ -133,7 +141,7 @@ Easily find processes by name and kill them ~ *by [@nathangreenstein](https://gi
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
 
-> Keywords: `st`.
+> Triggers: `st`.
 
 ![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
 
@@ -141,7 +149,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 Get an instant list of the current time in various cities around the world ~ *by [@CarlosNZ](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/).*
 
-> Keywords: `tz`.
+> Triggers: `tz`.
 
 ![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
 
