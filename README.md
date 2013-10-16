@@ -41,7 +41,7 @@ Quick package/plugin/component lookup for your favorite package managers ~ *by [
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
 ![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
 
-### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.1) ~ [Download](http://zno.io/Rcex)
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.3) ~ [Download](http://zno.io/Rcex)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -49,7 +49,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 ![Can I Use Workflow](http://f.cl.ly/items/1n2k2M0D170Y0D3G2J18/alfred-caniuse.png)
 
-### [Colors](https://github.com/TylerEich/Alfred-Extras) (1.41) ~ [Download](http://zno.io/RcFz)
+### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/Colors) (1.41) ~ [Download](http://zno.io/RcFz)
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
@@ -57,7 +57,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.10) ~ [Download](http://zno.io/Rc3p)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.11) ~ [Download](http://zno.io/Rc3p)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -69,7 +69,7 @@ P.S.: Dash is a free external application, make sure to [download](http://kapeli
 ![Rails Workflow](http://f.cl.ly/items/3j3R1Y0o2n3z260Z453O/alfred-rails.png)
 ![Bootstrap Workflow](http://f.cl.ly/items/2G0k401w0v3L0U0E2I1C/alfred-bs.png)
 
-### [Domainr](https://github.com/dingyi/Alfred-Workflows) (1.1) ~ [Download](http://zno.io/RctP)
+### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (1.1) ~ [Download](http://zno.io/RctP)
 
 Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
 
