@@ -77,6 +77,12 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 ![Domainr Workflow](http://f.cl.ly/items/0h2Y1D1A3K2g003N0932/alfred-domainr.png)
 
+### [Emoji](https://github.com/1000ch/emoji-workflow) (1.0)
+
+Search emoji of GitHub, GitLab, Trello, Kippt, Qiita, ant other...
+
+> Triggers: `emoji`
+
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.2) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
