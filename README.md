@@ -117,7 +117,7 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
-### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
+### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2) ~ [Download](http://zno.io/Ro6V)
 
 List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
 
