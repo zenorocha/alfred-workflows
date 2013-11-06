@@ -22,6 +22,12 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 ![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
 
+### Textmate (v1.0)
+
+Open files or a folders in [Textmate](http://macromates.com/) ~ *by [@chimericdream](https://github.com/chimericdream/).* (Based largely on the Sublime Text workflow by [@franzheidl](https://github.com/franzheidl/).)
+
+> Triggers: `mate`, `mate*`.
+
 ### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6) ~ [Download](http://zno.io/RkU2)
 
 Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
