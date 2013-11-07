@@ -57,13 +57,13 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.11) ~ [Download](http://zno.io/Rc3p)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.13) ~ [Download](http://zno.io/Rc3p)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
 
-> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`.
+> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`, `bourbon`, `neat`.
 
 ![JavaScript Workflow](http://f.cl.ly/items/3Q3J1v1N1m420Z3y451u/alfred-js.png)
 ![Rails Workflow](http://f.cl.ly/items/3j3R1Y0o2n3z260Z453O/alfred-rails.png)
@@ -79,9 +79,11 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 ### [Emoji](https://github.com/1000ch/emoji-workflow) (1.0)
 
-Search emoji of GitHub, GitLab, Trello, Kippt, Qiita, ant other...
+Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services.
 
 > Triggers: `emoji`
+
+![Emoji Workflow](http://f.cl.ly/items/201E462I4330371e0V3X/alfred-emoji.png)
 
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.2) ~ [Download](http://zno.io/RcCX)
 
@@ -91,11 +93,11 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
-### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (0.3) ~ [Download](http://zno.io/RcJ3)
+### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (1.02) ~ [Download](http://zno.io/RcJ3)
 
 Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) iconset ~ *by [@ruedap](https://github.com/ruedap/).*
 
-> Triggers: `fonta`.
+> Triggers: `fa`, `fonta`.
 
 ![Font Awesome Workflow](http://f.cl.ly/items/3w1I0U3W0s0i0X3w123u/alfred-fonta.png)
 
@@ -123,7 +125,7 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 ![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
 ![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
 
-### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.1) ~ [Download](http://zno.io/Ro6V)
+### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2) ~ [Download](http://zno.io/Ro6V)
 
 List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
 
