@@ -93,14 +93,6 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 ![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
 
-### [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) (1.02) ~ [Download](http://zno.io/RcJ3)
-
-Search through [Font Awesome](http://fortawesome.github.io/Font-Awesome/) iconset ~ *by [@ruedap](https://github.com/ruedap/).*
-
-> Triggers: `fa`, `fonta`.
-
-![Font Awesome Workflow](http://f.cl.ly/items/3w1I0U3W0s0i0X3w123u/alfred-fonta.png)
-
 ### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.0) ~ [Download](http://zno.io/RnTx)
 
 Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
