@@ -77,11 +77,11 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 ![Domainr Workflow](http://f.cl.ly/items/0h2Y1D1A3K2g003N0932/alfred-domainr.png)
 
-### [Emoji](https://github.com/1000ch/emoji-workflow) (1.0) ~ [Download](http://zno.io/SdMl)
+### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (1.0) ~ [Download](http://zno.io/SdMl)
 
-Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services.
+Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services ~ *by [@carlosgaldino](https://github.com/carlosgaldino/).*
 
-> Triggers: `emoji`
+> Triggers: `emoji`, `symoji`.
 
 ![Emoji Workflow](http://f.cl.ly/items/201E462I4330371e0V3X/alfred-emoji.png)
 
