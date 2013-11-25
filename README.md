@@ -180,6 +180,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 ![VirtualBox Workflow](http://f.cl.ly/items/0U2a1n2D3b2Z2b0h1l38/alfred-vb-1.png)
 ![VirtualBox Workflow](http://f.cl.ly/items/3P261H3O0G0D0u3B0n20/alfred-vb-2.png)
 
+### [Youdao Translate](https://github.com/samqiu/Youdao.alfredworkflow) (1.0) ~ [Download](https://github.com/samqiu/Youdao.alfredworkflow/releases)
+
+Translate between Chinese and English ~ *by [@samqiu](https://github.com/samqiu/).*
+
+> Triggers: `f`.
+
+![Youdao Translate](https://f.cloud.github.com/assets/290421/1610347/34f4ccd2-557a-11e3-92a1-3dd57cbb8fe8.png)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
