@@ -57,13 +57,13 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.13) ~ [Download](http://zno.io/Rc3p)
+### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.17) ~ [Download](http://zno.io/Rc3p)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
 P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
 
-> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`, `bourbon`, `neat`.
+> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`, `bourbon`, `neat`, `jade`, `stylus`, `coffee`, `knockout`.
 
 ![JavaScript Workflow](http://f.cl.ly/items/3Q3J1v1N1m420Z3y451u/alfred-js.png)
 ![Rails Workflow](http://f.cl.ly/items/3j3R1Y0o2n3z260Z453O/alfred-rails.png)
