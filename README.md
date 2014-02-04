@@ -31,11 +31,11 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 ![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
 ![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.15) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.18) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
-> Triggers: `bower`, `grunt`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+> Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
 ![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
 ![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
