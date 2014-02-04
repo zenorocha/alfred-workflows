@@ -49,7 +49,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 ![Can I Use Workflow](http://f.cl.ly/items/1n2k2M0D170Y0D3G2J18/alfred-caniuse.png)
 
-### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/Colors) (1.41) ~ [Download](http://zno.io/RcFz)
+### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/colors) (1.41) ~ [Download](http://zno.io/RcFz)
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
