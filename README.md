@@ -180,6 +180,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 ![VirtualBox Workflow](http://f.cl.ly/items/0U2a1n2D3b2Z2b0h1l38/alfred-vb-1.png)
 ![VirtualBox Workflow](http://f.cl.ly/items/3P261H3O0G0D0u3B0n20/alfred-vb-2.png)
 
+### [Layout](http://untoldwind.github.io/projects/alfred2-layout.html) (1.1) ~ [Download](https://github.com/untoldwind/alfred2-layout/raw/1.1_Mavericks/Layout.alfredworkflow)
+
+Manage your windows on single or multiple screens!
+
+> Triggers: `lay`
+
+![Layout Workflow](http://f.cl.ly/items/1I2k1c3Z1Q072h1i0Z2i/Image%202014-03-19%20at%209.24.18.png)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
