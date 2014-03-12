@@ -57,17 +57,17 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
 
-### [Dash](https://github.com/willfarrell/alfred-dash-workflow) (1.21) ~ [Download](http://zno.io/Rc3p)
+### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (1.0) ~ [Download](http://zno.io/Rc3p)
 
-Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language ~ *by [@willfarrell](https://github.com/willfarrell/).*
+Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language/library ~ *by [@Kapeli](https://github.com/Kapeli/).*
 
 P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
 
-> Triggers: `dash`, `html`, `css`, `js`, `jquery`, `jqueryui`, `angularjs`, `bootstrap`, `svg`, `nodejs`, `php`, `redis`, `mysql`, `man`, `cpp`, `sass`, `compass`, `backbone`, `underscore`,  `wordpress`, `drupal`, `django`, `python`, `python2`, `elisp`, `android`, `yui`, `ruby`, `rails`, `gem`, `bourbon`, `neat`, `jade`, `stylus`, `coffee`, `knockout`, `erlang`, `lua`, `foundation`.
+> Triggers: `dash {query}` or `{keyword} {query}`. The `{keyword}` can be a [docset keyword](http://kapeli.com/dash_guide#docsetKeywords) or a [search profile keyword](http://kapeli.com/dash_guide#searchProfiles), for example: `php {query}`.
 
-![JavaScript Workflow](http://f.cl.ly/items/3Q3J1v1N1m420Z3y451u/alfred-js.png)
-![Rails Workflow](http://f.cl.ly/items/3j3R1Y0o2n3z260Z453O/alfred-rails.png)
-![Bootstrap Workflow](http://f.cl.ly/items/2G0k401w0v3L0U0E2I1C/alfred-bs.png)
+![NodeJS Workflow](http://f.cl.ly/items/1k2v0y3G1t0w1h3D0D3c/dash-node.png)
+![PHP Workflow](http://f.cl.ly/items/2b241f1n0R1d3p3e293Y/dash-php.png)
+![Rails Workflow](http://f.cl.ly/items/473l3A3b2j3e0p2i1Y0Z/dash-rails.png)
 
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (1.1) ~ [Download](http://zno.io/RctP)
 
