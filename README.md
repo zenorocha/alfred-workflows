@@ -61,7 +61,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language/library ~ *by [@Kapeli](https://github.com/Kapeli/).*
 
-P.S.: Dash is a free external application, make sure to [download](http://kapeli.com/dash) it before start using this workflow.
+P.S.: Dash is a commercial external application, make sure to [download](http://kapeli.com/dash) it before starting to use this workflow.
 
 > Triggers: `dash {query}` or `{keyword} {query}`. The `{keyword}` can be a [docset keyword](http://kapeli.com/dash_guide#docsetKeywords) or a [search profile keyword](http://kapeli.com/dash_guide#searchProfiles), for example: `php {query}`.
 
