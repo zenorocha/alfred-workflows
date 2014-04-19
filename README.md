@@ -194,7 +194,7 @@ Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wik
 
 ## History
 
-See [Release](https://github.com/zenorocha/alfred-workflows/releases) list.
+See [Releases](https://github.com/zenorocha/alfred-workflows/releases) for detailed changelog.
 
 ## License
 
