@@ -69,6 +69,17 @@ P.S.: Dash is a commercial external application, make sure to [download](http://
 ![PHP Workflow](http://f.cl.ly/items/2b241f1n0R1d3p3e293Y/dash-php.png)
 ![Rails Workflow](http://f.cl.ly/items/473l3A3b2j3e0p2i1Y0Z/dash-rails.png)
 
+### [Dig](https://github.com/phallstrom/AlfredDig) (1.0) ~ [Download]()
+
+Look up DNS records using [dig](http://en.wikipedia.org/wiki/Dig_%28command%29) ~ *by [@phallstrom](https://github.com/phallstrom/).*
+
+P.S.: You must end queries with a space to trigger the lookup.
+
+> Triggers: `dig`.
+
+![Dig Workflow](http://f.cl.ly/items/433x3g0m0Q3V1G402l3l/alfred-dig.png)
+![Dig MX Workflow](http://f.cl.ly/items/1k34013P0P3U1004270N/alfred-dig-mx.png)
+
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (1.1) ~ [Download](http://zno.io/RctP)
 
 Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
