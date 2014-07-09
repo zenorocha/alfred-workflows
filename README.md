@@ -83,7 +83,7 @@ Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecam
 
 > Triggers: `emoji`, `symoji`.
 
-![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528883/b5589cac-0793-11e4-8906-6b3dd6d36ca2.png)
+![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528965/ac1a574c-0794-11e4-9d02-f7f39c7b4fac.png)
 
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.6) ~ [Download](http://zno.io/RcCX)
 
