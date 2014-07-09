@@ -2,7 +2,7 @@
 
 A collection of [Alfred 2](http://www.alfredapp.com/) workflows that will rock your world.
 
-![Alfred Logo](http://f.cl.ly/items/112u3G2z3g2B202W3e3p/alfred.png)
+![Alfred Logo](https://cloud.githubusercontent.com/assets/398893/3528722/5b5b30c6-0792-11e4-956d-750ac3a00bd8.png)
 
 ## Install
 
@@ -20,7 +20,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 > Triggers: `subl`, `subl*`.
 
-![Sublime Workflow](http://f.cl.ly/items/1m102K320I1O253s1L1R/alfred-subl.png)
+![Sublime Workflow](https://cloud.githubusercontent.com/assets/398893/3528729/6d152f88-0792-11e4-9dbe-2c4374f2e092.png)
 
 ### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6) ~ [Download](http://zno.io/RkU2)
 
@@ -28,8 +28,8 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 
 > Triggers: `ft`, `tf`, `fi`, `if`.
 
-![Terminal → Finder](http://f.cl.ly/items/0o2224030X1r3Y0E3y1W/alfred-tf.png)
-![Terminal → Finder](http://f.cl.ly/items/3l2d2V0B041d2O3c2G0w/alfred-fi.png)
+![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
+![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
 
 ### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.19) ~ [Download](http://zno.io/RcdI)
 
@@ -37,9 +37,9 @@ Quick package/plugin/component lookup for your favorite package managers ~ *by [
 
 > Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
-![Bower Workflow](http://f.cl.ly/items/3b2t2S3V3m3m2t0X350m/alfred-bower.png)
-![Grunt Workflow](http://f.cl.ly/items/1Y220d3T1p2u1Y3C111g/alfred-grunt.png)
-![NPM Workflow](http://f.cl.ly/items/3U1l2m2O2Z0R2j231g2i/alfred-npm.png)
+![Bower Workflow](https://cloud.githubusercontent.com/assets/398893/3528800/f6bccd0e-0792-11e4-87b4-fb2ac4065720.png)
+![Grunt Workflow](https://cloud.githubusercontent.com/assets/398893/3528808/04fd2b20-0793-11e4-937b-132d9d0367ed.png)
+![NPM Workflow](https://cloud.githubusercontent.com/assets/398893/3528813/12046068-0793-11e4-8602-3be496c6018c.png)
 
 ### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (1.3) ~ [Download](http://zno.io/Rcex)
 
@@ -47,7 +47,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 > Triggers: `caniuse`.
 
-![Can I Use Workflow](http://f.cl.ly/items/1n2k2M0D170Y0D3G2J18/alfred-caniuse.png)
+![Can I Use Workflow](https://cloud.githubusercontent.com/assets/398893/3528822/2575b9f8-0793-11e4-843a-a196fd292b15.png)
 
 ### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/colors) (1.41) ~ [Download](http://zno.io/RcFz)
 
@@ -55,7 +55,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 > Triggers: `#`, `rgb`, `hsl`, `c`.
 
-![Colors Workflow](http://f.cl.ly/items/2r3u2W122v0v2A0e1n0U/alfred-colors.png)
+![Colors Workflow](https://cloud.githubusercontent.com/assets/398893/3528841/463497e0-0793-11e4-89d9-5586295268d5.png)
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (1.0) ~ [Download](http://zno.io/Rc3p)
 
@@ -65,9 +65,9 @@ P.S.: Dash is a commercial external application, make sure to [download](http://
 
 > Triggers: `dash {query}` or `{keyword} {query}`. The `{keyword}` can be a [docset keyword](http://kapeli.com/dash_guide#docsetKeywords) or a [search profile keyword](http://kapeli.com/dash_guide#searchProfiles), for example: `php {query}`.
 
-![NodeJS Workflow](http://f.cl.ly/items/1k2v0y3G1t0w1h3D0D3c/dash-node.png)
-![PHP Workflow](http://f.cl.ly/items/2b241f1n0R1d3p3e293Y/dash-php.png)
-![Rails Workflow](http://f.cl.ly/items/473l3A3b2j3e0p2i1Y0Z/dash-rails.png)
+![NodeJS Workflow](https://cloud.githubusercontent.com/assets/398893/3528856/76ad5c36-0793-11e4-9508-907ba94d318b.png)
+![PHP Workflow](https://cloud.githubusercontent.com/assets/398893/3528857/76b48362-0793-11e4-8993-cc12a618d0e8.png)
+![Rails Workflow](https://cloud.githubusercontent.com/assets/398893/3528858/76b5f1f2-0793-11e4-88c8-0d1f2921e745.png)
 
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (1.1) ~ [Download](http://zno.io/RctP)
 
@@ -75,7 +75,7 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 > Triggers: `domainr`.
 
-![Domainr Workflow](http://f.cl.ly/items/0h2Y1D1A3K2g003N0932/alfred-domainr.png)
+![Domainr Workflow](https://cloud.githubusercontent.com/assets/398893/3528875/a25e61a4-0793-11e4-8a96-a7fa6606a1da.png)
 
 ### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (1.3) ~ [Download](http://zno.io/SdMl)
 
@@ -83,7 +83,7 @@ Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecam
 
 > Triggers: `emoji`, `symoji`.
 
-![Emoji Workflow](http://f.cl.ly/items/201E462I4330371e0V3X/alfred-emoji.png)
+![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528883/b5589cac-0793-11e4-8906-6b3dd6d36ca2.png)
 
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.6) ~ [Download](http://zno.io/RcCX)
 
@@ -91,7 +91,7 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 > Triggers: `encode`, `decode`.
 
-![Encode/Decode Workflow](http://f.cl.ly/items/2J3m1G1N46050I0E0w3n/alfred-encode.png)
+![Encode/Decode Workflow](https://cloud.githubusercontent.com/assets/398893/3528892/c74e0118-0793-11e4-82b6-45a9bbd87afb.png)
 
 ### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.0) ~ [Download](http://zno.io/RnTx)
 
@@ -101,7 +101,7 @@ P.S.: FileZilla is a free external application, make sure to [download](https://
 
 > Triggers: `fz`.
 
-![FileZilla Workflow](http://f.cl.ly/items/1x040v0X2E2B3l1G2G0j/alfred-fz.png)
+![FileZilla Workflow](https://cloud.githubusercontent.com/assets/398893/3528897/d4e9d784-0793-11e4-9e64-b2c580527f6e.png)
 
 Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
 
@@ -113,9 +113,9 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 > Triggers: `gh`.
 
-![GH Repo Workflow](http://f.cl.ly/items/0G3n1D3W1p2S3S2W3B1C/alfred-gh-repo.png)
-![GH @User Workflow](http://f.cl.ly/items/3l3V092M363x1m262B21/alfred-gh-user.png)
-![GH My Workflow](http://f.cl.ly/items/2H1J2g330h3E1l2W1A0o/alfred-gh-my.png)
+![GH Repo Workflow](https://cloud.githubusercontent.com/assets/398893/3528906/eccb0f94-0793-11e4-88eb-aed442fea9f8.png)
+![GH @User Workflow](https://cloud.githubusercontent.com/assets/398893/3528907/ecd0feb8-0793-11e4-8c41-022c5b94616a.png)
+![GH My Workflow](https://cloud.githubusercontent.com/assets/398893/3528905/ecb7c0e2-0793-11e4-8436-63247eb93fab.png)
 
 ### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2) ~ [Download](http://zno.io/Ro6V)
 
@@ -125,7 +125,7 @@ P.S.: Source Tree is a free external application, make sure to [download](http:/
 
 > Triggers: `st`, `stbookmark`.
 
-![Source Tree Workflow](http://f.cl.ly/items/473S2R0g3V461l2d0V2g/alfred-st.png)
+![Source Tree Workflow](https://cloud.githubusercontent.com/assets/398893/3528921/0b7585e6-0794-11e4-9fa7-b710a237b0ca.png)
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
@@ -135,7 +135,7 @@ Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfred
 
 > Triggers: `ios`.
 
-![iOS Simulator Workflow](http://f.cl.ly/items/0e011X0Q162p0R2p463z/alfred-ios.png)
+![iOS Simulator Workflow](https://cloud.githubusercontent.com/assets/398893/3528924/19f2603a-0794-11e4-8dcd-4478af1f24af.png)
 
 ### [IP Address](http://dferg.us/ip-address-workflow/) (1.2) ~ [Download](http://zno.io/RcAi)
 
@@ -143,7 +143,7 @@ Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-ad
 
 > Triggers: `ip`.
 
-![IP Address Workflow](http://f.cl.ly/items/1i3Q3T3I3t053J2b0R05/alfred-ip.png)
+![IP Address Workflow](https://cloud.githubusercontent.com/assets/398893/3528930/2a1f6d90-0794-11e4-95d9-494b27070e2a.png)
 
 ### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (1.2) ~ [Download](http://zno.io/RcNL)
 
@@ -151,7 +151,7 @@ Easily find processes by name and kill them ~ *by [@nathangreenstein](https://gi
 
 > Triggers: `kill`.
 
-![Kill Process Workflow](http://f.cl.ly/items/0q0P1u0A0d1q1h1y1V0l/alfred-kill.png)
+![Kill Process Workflow](https://cloud.githubusercontent.com/assets/398893/3528937/3621c71e-0794-11e4-9fef-59e5674da49e.png)
 
 ### [StackOverflow](https://github.com/xhinking/Alfred) (1.0) ~ [Download](http://zno.io/RceO)
 
@@ -159,7 +159,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 > Triggers: `st`.
 
-![StackOverflow Workflow](http://f.cl.ly/items/3T00363u1d3k30011K3P/alfred-st.png)
+![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
 
 ### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](http://zno.io/Rce5)
 
@@ -167,7 +167,7 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 > Triggers: `tz`.
 
-![TimeZones Workflow](http://f.cl.ly/items/0q0Q0r240f0D1o340S0E/alfred-tz.png)
+![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
 
 ### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (2.0) ~ [Download](http://zno.io/RyOE)
 
@@ -177,8 +177,8 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 > Triggers: `vm`.
 
-![VirtualBox Workflow](http://f.cl.ly/items/0U2a1n2D3b2Z2b0h1l38/alfred-vb-1.png)
-![VirtualBox Workflow](http://f.cl.ly/items/3P261H3O0G0D0u3B0n20/alfred-vb-2.png)
+![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528955/6c665c0e-0794-11e4-80b5-998706bf9b37.png)
+![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528956/6c80cfa8-0794-11e4-9d42-4a12d006899c.png)
 
 ## Extras
 
