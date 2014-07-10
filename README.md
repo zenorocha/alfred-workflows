@@ -85,7 +85,7 @@ Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecam
 
 ![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528965/ac1a574c-0794-11e4-9d02-f7f39c7b4fac.png)
 
-### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.6) ~ [Download](http://zno.io/RcCX)
+### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.8) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
