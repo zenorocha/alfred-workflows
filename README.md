@@ -161,7 +161,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 ![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
 
-### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](http://zno.io/Rce5)
+### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v17/) (1.7) ~ [Download](http://zno.io/Rce5)
 
 Get an instant list of the current time in various cities around the world ~ *by [@CarlosNZ](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/).*
 
