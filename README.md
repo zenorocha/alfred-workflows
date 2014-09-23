@@ -31,7 +31,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.30) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.42) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
