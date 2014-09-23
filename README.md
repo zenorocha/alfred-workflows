@@ -129,7 +129,7 @@ P.S.: Source Tree is a free external application, make sure to [download](http:/
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
-### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](http://zno.io/RcI1)
+### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.1) ~ [Download](http://zno.io/RcI1)
 
 Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
 
