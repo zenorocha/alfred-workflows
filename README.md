@@ -49,7 +49,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 ![Can I Use Workflow](https://cloud.githubusercontent.com/assets/398893/3528822/2575b9f8-0793-11e4-843a-a196fd292b15.png)
 
-### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/colors) (1.41) ~ [Download](http://zno.io/RcFz)
+### [Colors](http://www.packal.org/workflow/colors) (2.0) ~ [Download](http://zno.io/RcFz)
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
