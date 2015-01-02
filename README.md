@@ -57,6 +57,14 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](https://cloud.githubusercontent.com/assets/398893/3528841/463497e0-0793-11e4-89d9-5586295268d5.png)
 
+### [CDN](https://github.com/willfarrell/alfred-cdn-workflow) (1.4) ~ [Download](https://github.com/zenorocha/alfred-workflows/tree/master/cdn/cdn.alfredworkflow)
+
+Check which CDNs a package is hosted on. ~ *by [@willfarrell](https://github.com/willfarrell/alfred-cdn-workflow).*
+
+> Triggers: `cdn all`, `cdn js`, `cdn cf`, `cdn g`, `cdn msn`.
+
+![CDN Workflow](https://cloud.githubusercontent.com/assets/736728/5598818/b3836448-92a3-11e4-9265-e2fcd8e70b1f.png)
+
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (1.0) ~ [Download](http://zno.io/Rc3p)
 
 Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language/library ~ *by [@Kapeli](https://github.com/Kapeli/).*
