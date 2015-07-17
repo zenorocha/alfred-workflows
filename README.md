@@ -105,7 +105,7 @@ P.S.: FileZilla is a free external application, make sure to [download](https://
 
 Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
 
-### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
+### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
 Easily open [GitHub](http://github.com) repositories and more in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
 
