@@ -41,7 +41,7 @@ Quick package/plugin/component lookup for your favorite package managers ~ *by [
 ![Grunt Workflow](https://cloud.githubusercontent.com/assets/398893/3528808/04fd2b20-0793-11e4-937b-132d9d0367ed.png)
 ![NPM Workflow](https://cloud.githubusercontent.com/assets/398893/3528813/12046068-0793-11e4-8602-3be496c6018c.png)
 
-### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.3.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
