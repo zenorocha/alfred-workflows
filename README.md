@@ -93,7 +93,7 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 ![Encode/Decode Workflow](https://cloud.githubusercontent.com/assets/398893/3528892/c74e0118-0793-11e4-82b6-45a9bbd87afb.png)
 
-### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/filezilla/filezilla.alfredworkflow)
+### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/filezilla/filezilla.alfredworkflow)
 
 Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
 
