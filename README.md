@@ -93,6 +93,14 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 ![Encode/Decode Workflow](https://cloud.githubusercontent.com/assets/398893/3528892/c74e0118-0793-11e4-82b6-45a9bbd87afb.png)
 
+### [Faker](http://www.alfredforum.com/topic/5959-an-alfred-workflow-to-generate-fake-data/) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/faker/faker.alfredworkflow)
+
+Generate fake data such as name, email address, credit card number, etc ~ *by [@groenewege](https://github.com/groenewege).*
+
+> Triggers: `faker`, `fakerlocale`.
+
+![Faker](https://cloud.githubusercontent.com/assets/398893/8781617/f9ed8efa-2ec4-11e5-999a-018869bbc723.png)
+
 ### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/filezilla/filezilla.alfredworkflow)
 
 Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
