@@ -177,6 +177,14 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
 
+### [MacVim]() (v1.0) ~ [Download]()
+
+Open files or folders in MacVim ~ *by [@chusiang](https://github.com/chusiang/).*
+
+> Triggers: `vi`, `vim`, `mvim`.
+
+![MacVim Workflow](https://cloud.githubusercontent.com/assets/219066/8888786/d38141f2-32ee-11e5-86c9-ef94ceb9445d.png)
+
 ### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
 
 Control your [VirtualBox](https://www.virtualbox.org/) virtual machines ~ *by [@aiyodk](https://github.com/aiyodk/).*
@@ -187,6 +195,7 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 ![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528955/6c665c0e-0794-11e4-80b5-998706bf9b37.png)
 ![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528956/6c80cfa8-0794-11e4-9d42-4a12d006899c.png)
+
 
 ## Extras
 
