@@ -177,13 +177,13 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
 
-### [MacVim]() (v1.0) ~ [Download]()
+### [MacVim](https://github.com/chusiang/alfred-workflows/tree/master/macvim) (v1.0) ~ [Download](https://github.com/chusiang/alfred-workflows/blob/master/macvim/macvim.alfredworkflow?raw=true)
 
 Open files or folders in MacVim ~ *by [@chusiang](https://github.com/chusiang/).*
 
 > Triggers: `vi`, `vim`, `mvim`.
 
-![MacVim Workflow](https://cloud.githubusercontent.com/assets/219066/8888786/d38141f2-32ee-11e5-86c9-ef94ceb9445d.png)
+<img width="654" alt="2015-07-25-alfred-macvim-workflows" src="https://cloud.githubusercontent.com/assets/219066/8888786/d38141f2-32ee-11e5-86c9-ef94ceb9445d.png">
 
 ### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
 
