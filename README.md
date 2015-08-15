@@ -125,6 +125,15 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 ![GH @User Workflow](https://cloud.githubusercontent.com/assets/398893/3528907/ecd0feb8-0793-11e4-8c41-022c5b94616a.png)
 ![GH My Workflow](https://cloud.githubusercontent.com/assets/398893/3528905/ecb7c0e2-0793-11e4-8436-63247eb93fab.png)
 
+### [KeyboardVolume](https://github.com/autosquid/keyboardvolume) (v1.0.0) ~ [Download](https://github.com/autosquid/keyboardvolume/blob/master/KeyboardVolume.alfredworkflow)
+
+Control your Mac's Volume *by [@uuplusu](https://github.com/autosquid/).*
+
+> Triggers: `v+`, `v-`, `v^`, `v_`, `v=`
+
+![KeyboardVolume Workflow](https://cloud.githubusercontent.com/assets/758925/9287793/f7aa0998-435a-11e5-93ee-59137b224184.png)
+
+
 ### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/source-tree/source-tree.alfredworkflow)
 
 List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
