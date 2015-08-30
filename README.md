@@ -161,7 +161,7 @@ Easily find processes by name and kill them ~ *by [@nathangreenstein](https://gi
 
 ![Kill Process Workflow](https://cloud.githubusercontent.com/assets/398893/3528937/3621c71e-0794-11e4-9fef-59e5674da49e.png)
 
-### [Stack Overflow](https://github.com/xhinking/Alfred) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/blob/master/stack-overflow/stack-overflow.alfredworkflow)
+### [Stack Overflow](https://github.com/xhinking/Alfred) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
 
