@@ -1,12 +1,12 @@
 # Alfred Workflows
 
-A collection of [Alfred 2](http://www.alfredapp.com/) workflows that will rock your world.
+A collection of [Alfred 2](https://www.alfredapp.com/) workflows that will rock your world.
 
 ![Alfred Logo](https://cloud.githubusercontent.com/assets/398893/3528722/5b5b30c6-0792-11e4-956d-750ac3a00bd8.png)
 
 ## Install
 
-Download and open file using [Alfred 2](http://www.alfredapp.com/).
+Download and open file using [Alfred 2](https://www.alfredapp.com/).
 
 P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these workflows.
 
@@ -71,7 +71,7 @@ P.S.: Dash is a commercial external application, make sure to [download](http://
 
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
 
-Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
+Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
 
 > Triggers: `domainr`.
 
@@ -79,7 +79,7 @@ Find domains quickly using [domai.nr](https://domai.nr/)'s API ~ *by [@dingyi](h
 
 ### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.4.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/emoji/emoji.alfredworkflow)
 
-Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services ~ *by [@carlosgaldino](https://github.com/carlosgaldino/).*
+Search for [Emoji emoticons](https://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services ~ *by [@carlosgaldino](https://github.com/carlosgaldino/).*
 
 > Triggers: `emoji`, `symoji`.
 
@@ -115,7 +115,7 @@ Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/al
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
-Easily open [GitHub](http://github.com) repositories and more in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
+Easily open [GitHub](https://github.com/) repositories and more in the browser ~ *by [@gharlan](https://github.com/gharlan/).*
 
 P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
@@ -127,9 +127,9 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 ### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/source-tree/source-tree.alfredworkflow)
 
-List, search, and open Git repositories in [Source Tree](http://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
+List, search, and open Git repositories in [Source Tree](https://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
 
-P.S.: Source Tree is a free external application, make sure to [download](http://www.sourcetreeapp.com/) it before start using this workflow.
+P.S.: Source Tree is a free external application, make sure to [download](https://www.sourcetreeapp.com/) it before start using this workflow.
 
 > Triggers: `st`, `stbookmark`.
 
@@ -153,7 +153,7 @@ Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-ad
 
 ![IP Address Workflow](https://cloud.githubusercontent.com/assets/398893/3528930/2a1f6d90-0794-11e4-95d9-494b27070e2a.png)
 
-### [Kill Process](https://github.com/nathangreenstein/alfred-process-killer) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
+### [Kill Process](https://github.com/ngreenstein/alfred-process-killer) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
 Easily find processes by name and kill them ~ *by [@nathangreenstein](https://github.com/nathangreenstein/).*
 
