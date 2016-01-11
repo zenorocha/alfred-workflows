@@ -155,7 +155,7 @@ Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-ad
 
 ### [Kill Process](https://github.com/ngreenstein/alfred-process-killer) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
-Easily find processes by name and kill them ~ *by [@nathangreenstein](https://github.com/nathangreenstein/).*
+Easily find processes by name and kill them ~ *by [@ngreenstein](https://github.com/ngreenstein).*
 
 > Triggers: `kill`.
 
