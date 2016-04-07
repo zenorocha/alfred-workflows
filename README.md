@@ -72,17 +72,6 @@ Generate fake data such as name, email address, credit card number, etc ~ *by [@
 
 ![Faker](https://cloud.githubusercontent.com/assets/398893/8781617/f9ed8efa-2ec4-11e5-999a-018869bbc723.png)
 
-### [FileZilla](https://github.com/jeffmagill/alfred-open-in-filezilla) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/filezilla/filezilla.alfredworkflow)
-
-Open up [FileZilla](https://filezilla-project.org/) and connect to a site ~ *by [@jeffmagill](https://github.com/jeffmagill/).*
-
-P.S.: FileZilla is a free external application, make sure to [download](https://filezilla-project.org/) it before start using this workflow.
-
-> Triggers: `fz`.
-
-![FileZilla Workflow](https://cloud.githubusercontent.com/assets/398893/3528897/d4e9d784-0793-11e4-9e64-b2c580527f6e.png)
-
-Looking for another FTP client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#ftp).
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
