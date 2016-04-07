@@ -167,7 +167,7 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 ![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
 
-### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
+### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
 
 Control your [VirtualBox](https://www.virtualbox.org/) virtual machines ~ *by [@aiyodk](https://github.com/aiyodk/).*
 
