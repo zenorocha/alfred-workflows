@@ -134,11 +134,11 @@ P.S.: Source Tree is a free external application, make sure to [download](https:
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
-### [Stack Overflow](https://github.com/xhinking/Alfred) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
+### [Stack Overflow](https://github.com/xhinking/Alfred) (v1.0.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
 
-> Triggers: `st`.
+> Triggers: `so`.
 
 ![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
 
