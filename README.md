@@ -101,11 +101,11 @@ Easily find processes by name and kill them ~ *by [@ngreenstein](https://github.
 
 <img width="594" alt="kill" src="https://cloud.githubusercontent.com/assets/398893/14360276/6d2a33ba-fcaa-11e5-8fa5-4d3703a8129f.png">
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.03.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.09.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
-> Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+> Triggers: `apt-get`, `apm`, `bower`, `brew`, `chef`, `cocoa`, `composer`, `docker`, `gems`, `gradle`, `grunt`, `gulp`, `hex`, `maven`, `npm`, `pear`, `puppet`, `pypi`, `raspbian`, `rpm`, `yo`.
 
 <img width="594" alt="pm-1" src="https://cloud.githubusercontent.com/assets/398893/14360278/6d2d7f2a-fcaa-11e5-9463-0a909fd4a9bd.png">
 <img width="594" alt="pm-2" src="https://cloud.githubusercontent.com/assets/398893/14360277/6d2c5c94-fcaa-11e5-964b-09633238e291.png">
