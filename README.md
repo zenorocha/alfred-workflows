@@ -57,17 +57,15 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 ![Colors Workflow](https://cloud.githubusercontent.com/assets/398893/3528841/463497e0-0793-11e4-89d9-5586295268d5.png)
 
-### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/dash/dash.alfredworkflow)
+### [DevDocs](https://github.com/yannickglt/alfred-devdocs) (v1.0.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/devdocs/devdocs.alfredworkflow)
 
-Search through [Dash](http://kapeli.com/dash) documentations by filtering the keyword for each language/library ~ *by [@Kapeli](https://github.com/Kapeli/).*
+Search through [DevDocs](http://devdocs.io/) documentations by filtering the keyword for each language/library ~ *by [@yannickglt](https://github.com/yannickglt).*
 
-P.S.: Dash is a commercial external application, make sure to [download](http://kapeli.com/dash) it before starting to use this workflow.
+> Triggers: `angular`, `coffeescript`, `css`, `d3`, `dom`, `dom_events`, `git`, `html`, `http`, `javascript`, `jquery`, `jqueryui`, `lodash`, `php`, `sass`, `backbone`, `c`, `cpp`, `chai`, `cordova`, `ember`, `express`, `go`, `grunt`, `haskell`, `jquerymobile`, `knockout`, `laravel`, `less`, `maxcdn`, `moment`, `node`, `postgresql`, `python`, `redis`, `requirejs`, `ruby`, `rails`, `sinon`, `underscore`, `yii`.
 
-> Triggers: `dash {query}` or `{keyword} {query}`. The `{keyword}` can be a [docset keyword](http://kapeli.com/dash_guide#docsetKeywords) or a [search profile keyword](http://kapeli.com/dash_guide#searchProfiles), for example: `php {query}`.
-
-![NodeJS Workflow](https://cloud.githubusercontent.com/assets/398893/3528856/76ad5c36-0793-11e4-9508-907ba94d318b.png)
-![PHP Workflow](https://cloud.githubusercontent.com/assets/398893/3528857/76b48362-0793-11e4-8993-cc12a618d0e8.png)
-![Rails Workflow](https://cloud.githubusercontent.com/assets/398893/3528858/76b5f1f2-0793-11e4-88c8-0d1f2921e745.png)
+![NodeJS Workflow](https://cloud.githubusercontent.com/assets/398893/14358151/95c5c654-fca0-11e5-924a-8daa35b89bf8.png)
+![PHP Workflow](https://cloud.githubusercontent.com/assets/398893/14358150/95c38524-fca0-11e5-9e37-3ef05f00597a.png)
+![Rails Workflow](https://cloud.githubusercontent.com/assets/398893/14358149/95c10ec0-fca0-11e5-8d36-134d2db66f70.png)
 
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
 
