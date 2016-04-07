@@ -20,7 +20,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 > Triggers: `caniuse`.
 
-![Can I Use Workflow](https://cloud.githubusercontent.com/assets/398893/3528822/2575b9f8-0793-11e4-843a-a196fd292b15.png)
+<img width="594" alt="caniuse" src="https://cloud.githubusercontent.com/assets/398893/14360298/8589c6fa-fcaa-11e5-83df-200f4c90f85f.png">
 
 ### [Colors](http://www.packal.org/workflow/colors) (v2.0.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/colors/colors.alfredworkflow)
 
@@ -28,7 +28,7 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 > Triggers: `#`, `rgb`, `hsl`, `c`.
 
-![Colors Workflow](https://cloud.githubusercontent.com/assets/398893/3528841/463497e0-0793-11e4-89d9-5586295268d5.png)
+<img width="594" alt="colors" src="https://cloud.githubusercontent.com/assets/398893/14360267/6d0aa34c-fcaa-11e5-9c35-fef24188842d.png">
 
 ### [DevDocs](https://github.com/yannickglt/alfred-devdocs) (v1.0.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/devdocs/devdocs.alfredworkflow)
 
@@ -36,9 +36,10 @@ Search through [DevDocs](http://devdocs.io/) documentations by filtering the key
 
 > Triggers: `angular`, `coffeescript`, `css`, `d3`, `dom`, `dom_events`, `git`, `html`, `http`, `javascript`, `jquery`, `jqueryui`, `lodash`, `php`, `sass`, `backbone`, `c`, `cpp`, `chai`, `cordova`, `ember`, `express`, `go`, `grunt`, `haskell`, `jquerymobile`, `knockout`, `laravel`, `less`, `maxcdn`, `moment`, `node`, `postgresql`, `python`, `redis`, `requirejs`, `ruby`, `rails`, `sinon`, `underscore`, `yii`.
 
-![NodeJS Workflow](https://cloud.githubusercontent.com/assets/398893/14358151/95c5c654-fca0-11e5-924a-8daa35b89bf8.png)
-![PHP Workflow](https://cloud.githubusercontent.com/assets/398893/14358150/95c38524-fca0-11e5-9e37-3ef05f00597a.png)
-![Rails Workflow](https://cloud.githubusercontent.com/assets/398893/14358149/95c10ec0-fca0-11e5-8d36-134d2db66f70.png)
+<img width="594" alt="devdocs-1" src="https://cloud.githubusercontent.com/assets/398893/14360266/6d0aa28e-fcaa-11e5-8a3f-a7ff95d226ef.png">
+<img width="594" alt="devdocs-2" src="https://cloud.githubusercontent.com/assets/398893/14360268/6d0b738a-fcaa-11e5-9182-3681a9c0c9cc.png">
+<img width="594" alt="devdocs-3" src="https://cloud.githubusercontent.com/assets/398893/14360264/6d080bd2-fcaa-11e5-85cc-a2ca197c6dd6.png">
+
 
 ### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
 
@@ -46,7 +47,7 @@ Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi
 
 > Triggers: `domainr`.
 
-![Domainr Workflow](https://cloud.githubusercontent.com/assets/398893/3528875/a25e61a4-0793-11e4-8a96-a7fa6606a1da.png)
+<img width="594" alt="domainr" src="https://cloud.githubusercontent.com/assets/398893/14360269/6d0fe35c-fcaa-11e5-9970-3ad6f4b9c8f0.png">
 
 ### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.4.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/emoji/emoji.alfredworkflow)
 
@@ -54,7 +55,7 @@ Search for [Emoji emoticons](https://en.wikipedia.org/wiki/Emoji) used by Baseca
 
 > Triggers: `emoji`, `symoji`.
 
-![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528965/ac1a574c-0794-11e4-9d02-f7f39c7b4fac.png)
+<img width="594" alt="emoji" src="https://cloud.githubusercontent.com/assets/398893/14360265/6d098d5e-fcaa-11e5-87e8-461b5527b671.png">
 
 ### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (v1.8.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/encode-decode/encode-decode.alfredworkflow)
 
@@ -62,7 +63,7 @@ Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by
 
 > Triggers: `encode`, `decode`.
 
-![Encode/Decode Workflow](https://cloud.githubusercontent.com/assets/398893/3528892/c74e0118-0793-11e4-82b6-45a9bbd87afb.png)
+<img width="594" alt="encode" src="https://cloud.githubusercontent.com/assets/398893/14360272/6d1c1230-fcaa-11e5-9514-64f2ea995bec.png">
 
 ### [Faker](http://www.alfredforum.com/topic/5959-an-alfred-workflow-to-generate-fake-data/) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/faker/faker.alfredworkflow)
 
@@ -70,8 +71,7 @@ Generate fake data such as name, email address, credit card number, etc ~ *by [@
 
 > Triggers: `faker`, `fakerlocale`.
 
-![Faker](https://cloud.githubusercontent.com/assets/398893/8781617/f9ed8efa-2ec4-11e5-999a-018869bbc723.png)
-
+<img width="594" alt="faker" src="https://cloud.githubusercontent.com/assets/398893/14360271/6d1ba944-fcaa-11e5-85dc-54045946f02e.png">
 
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/github/github.alfredworkflow)
 
@@ -81,9 +81,9 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 
 > Triggers: `gh`.
 
-![GH Repo Workflow](https://cloud.githubusercontent.com/assets/398893/3528906/eccb0f94-0793-11e4-88eb-aed442fea9f8.png)
-![GH @User Workflow](https://cloud.githubusercontent.com/assets/398893/3528907/ecd0feb8-0793-11e4-8c41-022c5b94616a.png)
-![GH My Workflow](https://cloud.githubusercontent.com/assets/398893/3528905/ecb7c0e2-0793-11e4-8436-63247eb93fab.png)
+<img width="594" alt="github-1" src="https://cloud.githubusercontent.com/assets/398893/14360273/6d1d54ba-fcaa-11e5-99fb-a9b9976194e2.png">
+<img width="594" alt="github-2" src="https://cloud.githubusercontent.com/assets/398893/14360270/6d1ae748-fcaa-11e5-80da-6433c312e452.png">
+<img width="594" alt="github-3" src="https://cloud.githubusercontent.com/assets/398893/14360274/6d1eba8a-fcaa-11e5-8815-d7e9ca890542.png">
 
 ### [IP Address](http://dferg.us/ip-address-workflow/) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
@@ -91,7 +91,7 @@ Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-ad
 
 > Triggers: `ip`.
 
-![IP Address Workflow](https://cloud.githubusercontent.com/assets/398893/3528930/2a1f6d90-0794-11e4-95d9-494b27070e2a.png)
+<img width="594" alt="ip" src="https://cloud.githubusercontent.com/assets/398893/14361428/ab1e7910-fcaf-11e5-86e8-51f7a5f44aa8.png">
 
 ### [Kill Process](https://github.com/ngreenstein/alfred-process-killer) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/kill-process/kill-process.alfredworkflow)
 
@@ -99,7 +99,7 @@ Easily find processes by name and kill them ~ *by [@ngreenstein](https://github.
 
 > Triggers: `kill`.
 
-![Kill Process Workflow](https://cloud.githubusercontent.com/assets/398893/3528937/3621c71e-0794-11e4-9fef-59e5674da49e.png)
+<img width="594" alt="kill" src="https://cloud.githubusercontent.com/assets/398893/14360276/6d2a33ba-fcaa-11e5-8fa5-4d3703a8129f.png">
 
 ### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.03.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
@@ -107,9 +107,8 @@ Quick package/plugin/component lookup for your favorite package managers ~ *by [
 
 > Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
 
-![Bower Workflow](https://cloud.githubusercontent.com/assets/398893/3528800/f6bccd0e-0792-11e4-87b4-fb2ac4065720.png)
-![Grunt Workflow](https://cloud.githubusercontent.com/assets/398893/3528808/04fd2b20-0793-11e4-937b-132d9d0367ed.png)
-![NPM Workflow](https://cloud.githubusercontent.com/assets/398893/3528813/12046068-0793-11e4-8602-3be496c6018c.png)
+<img width="594" alt="pm-1" src="https://cloud.githubusercontent.com/assets/398893/14360278/6d2d7f2a-fcaa-11e5-9463-0a909fd4a9bd.png">
+<img width="594" alt="pm-2" src="https://cloud.githubusercontent.com/assets/398893/14360277/6d2c5c94-fcaa-11e5-964b-09633238e291.png">
 
 ### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/source-tree/source-tree.alfredworkflow)
 
@@ -119,7 +118,7 @@ P.S.: Source Tree is a free external application, make sure to [download](https:
 
 > Triggers: `st`, `stbookmark`.
 
-![Source Tree Workflow](https://cloud.githubusercontent.com/assets/398893/3528921/0b7585e6-0794-11e4-9fa7-b710a237b0ca.png)
+<img width="594" alt="sourcetree" src="https://cloud.githubusercontent.com/assets/398893/14360279/6d2ec92a-fcaa-11e5-8205-f6854e6e058c.png">
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
@@ -129,7 +128,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 > Triggers: `so`.
 
-![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
+<img width="594" alt="stackoverflow" src="https://cloud.githubusercontent.com/assets/398893/14360280/6d324a50-fcaa-11e5-92b6-2e4c86d05524.png">
 
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
 
@@ -137,7 +136,7 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 > Triggers: `subl`, `subl*`.
 
-![Sublime Workflow](https://cloud.githubusercontent.com/assets/398893/3528729/6d152f88-0792-11e4-9dbe-2c4374f2e092.png)
+<img width="594" alt="subl" src="https://cloud.githubusercontent.com/assets/398893/14360281/6d37a644-fcaa-11e5-8148-7159d83a9f9d.png">
 
 ### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/terminal-finder/terminal-finder.alfredworkflow)
 
@@ -145,8 +144,8 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 
 > Triggers: `ft`, `tf`, `fi`, `if`.
 
-![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
-![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
+<img width="594" alt="terminal-1" src="https://cloud.githubusercontent.com/assets/398893/14360282/6d3a0e3e-fcaa-11e5-8e5b-a8c5a3305962.png">
+<img width="594" alt="terminal-2" src="https://cloud.githubusercontent.com/assets/398893/14360284/6d3d19da-fcaa-11e5-933b-2ce62f83d77e.png">
 
 ### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v17/) (v1.7.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/time-zones/time-zones.alfredworkflow)
 
@@ -154,7 +153,7 @@ Get an instant list of the current time in various cities around the world ~ *by
 
 > Triggers: `tz`.
 
-![TimeZones Workflow](https://cloud.githubusercontent.com/assets/398893/3528947/56255bb6-0794-11e4-8ecb-d4aed39dbff2.png)
+<img width="594" alt="tz" src="https://cloud.githubusercontent.com/assets/398893/14360283/6d3d04f4-fcaa-11e5-90d6-79740e5a5c4d.png">
 
 ### [VirtualBox](https://github.com/aiyodk/Alfred-Extensions/tree/master/AlfredApp_2.x/VirtualBox-Control) (v2.0.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow)
 
@@ -164,8 +163,7 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 > Triggers: `vm`.
 
-![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528955/6c665c0e-0794-11e4-80b5-998706bf9b37.png)
-![VirtualBox Workflow](https://cloud.githubusercontent.com/assets/398893/3528956/6c80cfa8-0794-11e4-9d42-4a12d006899c.png)
+<img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
 ## Extras
 
