@@ -135,14 +135,6 @@ P.S.: Source Tree is a free external application, make sure to [download](https:
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
-### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ios-simulator/ios-simulator.alfredworkflow)
-
-Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
-
-> Triggers: `ios`.
-
-![iOS Simulator Workflow](https://cloud.githubusercontent.com/assets/398893/3528924/19f2603a-0794-11e4-8dcd-4478af1f24af.png)
-
 ### [IP Address](http://dferg.us/ip-address-workflow/) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
