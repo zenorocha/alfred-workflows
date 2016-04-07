@@ -140,9 +140,9 @@ Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by 
 
 ### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/terminal-finder/terminal-finder.alfredworkflow)
 
-Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
+Open current Finder (or Path Finder) window in Terminal (or iTerm) and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
 
-> Triggers: `ft`, `tf`, `fi`, `if`.
+> Triggers: `ft`, `tf`, `fi`, `if`, `pt`, `tp`, `pi`, `ip`.
 
 <img width="594" alt="terminal-1" src="https://cloud.githubusercontent.com/assets/398893/14360282/6d3a0e3e-fcaa-11e5-8e5b-a8c5a3305962.png">
 <img width="594" alt="terminal-2" src="https://cloud.githubusercontent.com/assets/398893/14360284/6d3d19da-fcaa-11e5-933b-2ce62f83d77e.png">
