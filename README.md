@@ -14,6 +14,14 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
 
+### [Caffeinate](https://github.com/shawnrice/alfred-2-caffeinate-workflow) (v3.03.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caffeinate/caffeinate.alfredworkflow)
+
+Solves the problem of your computer constantly falling asleep by using OS X's native command line ~ *by [@shawnrice](https://github.com/shawnrice/).*
+
+> Triggers: `caff`.
+
+<img width="594" alt="caffeinate" src="https://cloud.githubusercontent.com/assets/398893/14361901/01febfd6-fcb2-11e5-8292-6adf499ac971.png">
+
 ### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.7.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
