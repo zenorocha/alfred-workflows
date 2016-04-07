@@ -69,7 +69,7 @@ P.S.: Dash is a commercial external application, make sure to [download](http://
 ![PHP Workflow](https://cloud.githubusercontent.com/assets/398893/3528857/76b48362-0793-11e4-8993-cc12a618d0e8.png)
 ![Rails Workflow](https://cloud.githubusercontent.com/assets/398893/3528858/76b5f1f2-0793-11e4-88c8-0d1f2921e745.png)
 
-### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
+### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
 
 Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
 
