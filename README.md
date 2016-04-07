@@ -14,33 +14,6 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
 
-### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
-
-Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
-
-> Triggers: `subl`, `subl*`.
-
-![Sublime Workflow](https://cloud.githubusercontent.com/assets/398893/3528729/6d152f88-0792-11e4-9dbe-2c4374f2e092.png)
-
-### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/terminal-finder/terminal-finder.alfredworkflow)
-
-Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
-
-> Triggers: `ft`, `tf`, `fi`, `if`.
-
-![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
-![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
-
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.03.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
-
-Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
-
-> Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
-
-![Bower Workflow](https://cloud.githubusercontent.com/assets/398893/3528800/f6bccd0e-0792-11e4-87b4-fb2ac4065720.png)
-![Grunt Workflow](https://cloud.githubusercontent.com/assets/398893/3528808/04fd2b20-0793-11e4-937b-132d9d0367ed.png)
-![NPM Workflow](https://cloud.githubusercontent.com/assets/398893/3528813/12046068-0793-11e4-8602-3be496c6018c.png)
-
 ### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
@@ -123,18 +96,6 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 ![GH @User Workflow](https://cloud.githubusercontent.com/assets/398893/3528907/ecd0feb8-0793-11e4-8c41-022c5b94616a.png)
 ![GH My Workflow](https://cloud.githubusercontent.com/assets/398893/3528905/ecb7c0e2-0793-11e4-8436-63247eb93fab.png)
 
-### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/source-tree/source-tree.alfredworkflow)
-
-List, search, and open Git repositories in [Source Tree](https://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
-
-P.S.: Source Tree is a free external application, make sure to [download](https://www.sourcetreeapp.com/) it before start using this workflow.
-
-> Triggers: `st`, `stbookmark`.
-
-![Source Tree Workflow](https://cloud.githubusercontent.com/assets/398893/3528921/0b7585e6-0794-11e4-9fa7-b710a237b0ca.png)
-
-Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
-
 ### [IP Address](http://dferg.us/ip-address-workflow/) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
@@ -151,6 +112,28 @@ Easily find processes by name and kill them ~ *by [@ngreenstein](https://github.
 
 ![Kill Process Workflow](https://cloud.githubusercontent.com/assets/398893/3528937/3621c71e-0794-11e4-9fef-59e5674da49e.png)
 
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.03.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
+
+Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
+
+> Triggers: `bower`, `grunt`, `gulp`, `npm`, `composer`, `pear`, `gems`, `pypi`, `alcatraz`, `cocoa`, `brew`, `rpm`, `maven`, `docker`.
+
+![Bower Workflow](https://cloud.githubusercontent.com/assets/398893/3528800/f6bccd0e-0792-11e4-87b4-fb2ac4065720.png)
+![Grunt Workflow](https://cloud.githubusercontent.com/assets/398893/3528808/04fd2b20-0793-11e4-937b-132d9d0367ed.png)
+![NPM Workflow](https://cloud.githubusercontent.com/assets/398893/3528813/12046068-0793-11e4-8602-3be496c6018c.png)
+
+### [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/source-tree/source-tree.alfredworkflow)
+
+List, search, and open Git repositories in [Source Tree](https://www.sourcetreeapp.com/) ~ *by [@zhaocai](https://github.com/zhaocai/).*
+
+P.S.: Source Tree is a free external application, make sure to [download](https://www.sourcetreeapp.com/) it before start using this workflow.
+
+> Triggers: `st`, `stbookmark`.
+
+![Source Tree Workflow](https://cloud.githubusercontent.com/assets/398893/3528921/0b7585e6-0794-11e4-9fa7-b710a237b0ca.png)
+
+Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
+
 ### [Stack Overflow](https://github.com/xhinking/Alfred) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/stack-overflow/stack-overflow.alfredworkflow)
 
 Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhinking](https://github.com/xhinking/).*
@@ -158,6 +141,23 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 > Triggers: `st`.
 
 ![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
+
+### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
+
+Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
+
+> Triggers: `subl`, `subl*`.
+
+![Sublime Workflow](https://cloud.githubusercontent.com/assets/398893/3528729/6d152f88-0792-11e4-9dbe-2c4374f2e092.png)
+
+### [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/terminal-finder/terminal-finder.alfredworkflow)
+
+Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](https://github.com/LeEnno/).*
+
+> Triggers: `ft`, `tf`, `fi`, `if`.
+
+![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
+![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
 
 ### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v17/) (v1.7.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/time-zones/time-zones.alfredworkflow)
 
