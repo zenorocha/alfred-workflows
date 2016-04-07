@@ -14,7 +14,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 :arrow_down: **&nbsp;[Download them all](https://github.com/zenorocha/alfred-workflows/releases).**
 
-### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.6.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.7.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/caniuse/caniuse.alfredworkflow)
 
 Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.com](http://caniuse.com) ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
