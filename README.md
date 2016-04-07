@@ -49,11 +49,11 @@ Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi
 
 <img width="594" alt="domainr" src="https://cloud.githubusercontent.com/assets/398893/14360269/6d0fe35c-fcaa-11e5-9970-3ad6f4b9c8f0.png">
 
-### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.4.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/emoji/emoji.alfredworkflow)
+### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/emoji/emoji.alfredworkflow)
 
-Search for [Emoji emoticons](https://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services ~ *by [@carlosgaldino](https://github.com/carlosgaldino/).*
+Search for [Emojis](https://en.wikipedia.org/wiki/Emoji) used by Basecamp, GitHub, GitLab, Trello, and other services ~ *by [@carlosgaldino](https://github.com/carlosgaldino/).*
 
-> Triggers: `emoji`, `symoji`.
+> Triggers: `emoji`, `emoji [alt key]`.
 
 <img width="594" alt="emoji" src="https://cloud.githubusercontent.com/assets/398893/14360265/6d098d5e-fcaa-11e5-87e8-461b5527b671.png">
 
