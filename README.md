@@ -173,6 +173,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+### [QR Code](https://github.com/fate-lovely/alfred-qrcode-workflow) (v0.1.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/qr-code/qr-code.alfredworkflow)
+
+Generate QR Code on the fly~ *by [@fate-lovely](https://github.com/fate-lovely/).*
+
+> Triggers: `qr`.
+
+<img width="594" alt="qr" src="https://cloud.githubusercontent.com/assets/4210829/16913177/4ecb5c8e-4d1b-11e6-8a88-2fd20a8ab719.png">
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
