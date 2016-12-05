@@ -173,6 +173,16 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+#### [PyPi](https://github.com/krak3n/pypi-alfred-workflow) ~ v1.0.0
+
+Query the Python Package Index API. You can either open searched packages in a browser or copy the pip install command to your clipboard. ~ *by [@krak3n](https://github.com/krak3n/).*
+
+> Keywords: `pypi`, `pip`
+
+![PyPi Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pypi_flask.png)
+
+![PyPi Workflow Screenshot](http://pypiworkflow.chris.reeves.io/pip_flask.png)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
