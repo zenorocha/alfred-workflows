@@ -38,11 +38,11 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 <img width="594" alt="colors" src="https://cloud.githubusercontent.com/assets/398893/14360267/6d0aa34c-fcaa-11e5-9c35-fef24188842d.png">
 
-### [DevDocs](https://github.com/yannickglt/alfred-devdocs) (v1.0.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/devdocs/devdocs.alfredworkflow)
+### [DevDocs](https://github.com/yannickglt/alfred-devdocs) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/devdocs/devdocs.alfredworkflow)
 
 Search through [DevDocs](http://devdocs.io/) documentations by filtering the keyword for each language/library ~ *by [@yannickglt](https://github.com/yannickglt).*
 
-> Triggers: `angular`, `coffeescript`, `css`, `d3`, `dom`, `dom_events`, `git`, `html`, `http`, `javascript`, `jquery`, `jqueryui`, `lodash`, `php`, `sass`, `backbone`, `c`, `cpp`, `chai`, `cordova`, `ember`, `express`, `go`, `grunt`, `haskell`, `jquerymobile`, `knockout`, `laravel`, `less`, `maxcdn`, `moment`, `node`, `postgresql`, `python`, `redis`, `requirejs`, `ruby`, `rails`, `sinon`, `underscore`, `yii`.
+> Triggers: `cdoc`, `angular`, `coffeescript`, `css`, `d3`, `dom`, `dom_events`, `git`, `html`, `http`, `javascript`, `jquery`, `jqueryui`, `lodash`, `php`, `sass`, `backbone`, `c`, `cpp`, `chai`, `cordova`, `ember`, `express`, `go`, `grunt`, `haskell`, `jquerymobile`, `knockout`, `laravel`, `less`, `maxcdn`, `moment`, `node`, `postgresql`, `python`, `redis`, `requirejs`, `ruby`, `rails`, `sinon`, `underscore`, `yii`.
 
 <img width="594" alt="devdocs-1" src="https://cloud.githubusercontent.com/assets/398893/14360266/6d0aa28e-fcaa-11e5-8a3f-a7ff95d226ef.png">
 <img width="594" alt="devdocs-2" src="https://cloud.githubusercontent.com/assets/398893/14360268/6d0b738a-fcaa-11e5-9182-3681a9c0c9cc.png">
