@@ -109,7 +109,7 @@ Easily find processes by name and kill them ~ *by [@ngreenstein](https://github.
 
 <img width="594" alt="kill" src="https://cloud.githubusercontent.com/assets/398893/14360276/6d2a33ba-fcaa-11e5-8fa5-4d3703a8129f.png">
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.09.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.16.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/package-managers/package-managers.alfredworkflow)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
