@@ -174,6 +174,26 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+### [Text Snippets/Commands](https://github.com/rtoshiro/alfred-workflows) (1.1) ~ [Download](https://github.com/rtoshiro/alfred-workflows-textshortcut)
+
+Manage all your text snippets and Terminal commands without other third party applications. ~ *by [@hamiseixas](http://www.alfredforum.com/topic/5117-text-shortcut-create-text-abbreviations/).*
+
+> Triggers: `ts` and `tc`.
+
+![Text Snippets Workflow](https://github.com/rtoshiro/alfred-workflows-textshortcut/raw/master/readme/01.jpg)
+
+![Text Commands Workflow](https://github.com/rtoshiro/alfred-workflows-textshortcut/raw/master/readme/02.jpg)
+
+### [Calendar](https://github.com/rtoshiro/alfred-workflows-addcalendarevent) (1.10) ~ [Download](https://github.com/rtoshiro/alfred-workflows-addcalendarevent)
+
+Manage all your text snippets and Terminal commands without other third party applications. ~ *by [@hamiseixas](http://www.alfredforum.com/topic/1515-add-calendar-event-feedback-result-added/).*
+
+> Triggers: `cal`.
+
+![Calendar example 1](https://github.com/rtoshiro/alfred-workflows-addcalendarevent/raw/master/readme/01.jpg)
+
+![Calendar example 2](https://github.com/rtoshiro/alfred-workflows-addcalendarevent/raw/master/readme/02.jpg)
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
