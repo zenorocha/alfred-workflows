@@ -178,6 +178,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
 
+### [Toggle Desktop Icons](http://www.alfredforum.com/topic/1923-toggle-desktop-icons-visibility/) (1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/toggle-icons/toggle-icons.alfredworkflow)
+
+Show / Hide Desktop Icons ~ *by [Edwin Allan](http://www.alfredforum.com/topic/1923-toggle-desktop-icons-visibility/).*
+
+> Keywords: `toggleicons`
+
+![Toggle Icons Workflow](http://d.pr/i/JPyh+)
+
 ## Contributing
 
 1. Fork it!
