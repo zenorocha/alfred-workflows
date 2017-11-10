@@ -174,6 +174,16 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+### [Open with VSCode](https://github.com/iamstevendao/alfred-open-with-vscode) ~ [Download](https://github.com/iamstevendao/alfred-open-with-vscode/raw/master/Open-with-VSCode.alfredworkflow)
+
+Open a folder with [Visual Studio Code](https://code.visualstudio.com/) ~ by [@iamstevendao](https://github.com/iamstevendao)
+
+> Triggers: `code`.
+
+<p align="center">
+<img alt="open-with-vscode gif" src="https://thumbs.gfycat.com/TerrificPracticalAegeancat-size_restricted.gif"/>
+</p>
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
