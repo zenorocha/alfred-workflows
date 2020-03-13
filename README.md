@@ -174,6 +174,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+### [Fantastical](https://github.com/NavePnow/Fantastical-Alfred-Workflow) (v1.0.0) ~ [Download](https://github.com/NavePnow/Fantastical-Alfred-Workflow/releases/download/1.0.0/Fantastical.alfredworkflow)
+
+A simple Alfred 4 workflow to add entries to Fantastical. ~ *by [@NavePnow](https://github.com/NavePnow/).*
+
+> Triggers: `fan`.
+
+<img width="594" alt="Fantastical" src="https://github.com/NavePnow/Fantastical-Alfred-Workflow/raw/master/event%20no-list.gif">
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
