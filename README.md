@@ -174,6 +174,14 @@ P.S.: VirtualBox is a free external application, make sure to [download](https:/
 
 <img width="594" alt="vm" src="https://cloud.githubusercontent.com/assets/398893/14360285/6d3fdc24-fcaa-11e5-90bb-54c704975942.png">
 
+### - [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) (v1.0.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ssh-iterm/alfred-open-ssh-host-with-iterm-badge-workflow.alfredworkflow)
+
+Query `~/.ssh/config` and open ssh host with iTerm badge. *by [@hanjm](https://github.com/hanjm/).*
+
+> Triggers: `ssh`
+
+<img width="594" alt="ssh iTerm" src="https://github.com/hanjm/alfred-ssh-iterm-workflow/raw/master/image/ssh2iterm.gif">
+
 ## Extras
 
 Do you want more? [Go get it!](https://github.com/zenorocha/alfred-workflows/wiki/Extras)
