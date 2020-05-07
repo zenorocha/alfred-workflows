@@ -93,6 +93,14 @@ P.S.: You have to login before you can use the workflow: `gh > login <user>`.
 <img width="594" alt="github-2" src="https://cloud.githubusercontent.com/assets/398893/14360270/6d1ae748-fcaa-11e5-80da-6433c312e452.png">
 <img width="594" alt="github-3" src="https://cloud.githubusercontent.com/assets/398893/14360274/6d1eba8a-fcaa-11e5-8815-d7e9ca890542.png">
 
+### [JustWatch-Alfred](https://vinaywadhwa.github.io/justwatch-alfred/) (v1.0.4) ~ [Download](https://github.com/vinaywadhwa/justwatch-alfred/releases/download/1.0.4/JustWatch.-.Alfred.-.v1.0.4.alfredworkflow)
+
+Alfred workflow to easily find where to stream your movies/tv-shows. Based on an unofficial Justwatch API.
+
+> Triggers: `justwatch`.
+
+<img width="594" alt="justwatch" src="https://github.com/vinaywadhwa/justwatch-alfred/raw/master/demo.gif">
+
 ### [IP Address](http://dferg.us/ip-address-workflow/) (v1.2.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/ip-address/ip-address.alfredworkflow)
 
 Shows your internal and external IP address ~ *by [@dferg](http://dferg.us/ip-address-workflow/).*
